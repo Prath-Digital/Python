@@ -60,7 +60,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 1 Fundamental Booster</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Projects/Pr.1_fundamental_booster/">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="[Projects/Pr.1_fundamental_booster/](https://github.com/Prath-code/Python_PR.-1-Fundamental-Booster)">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -103,7 +103,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#388e3c;">PR. 2 Logic Box</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Projects/Pr.2_logic_box/">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="[Projects/Pr.2_logic_box/](https://github.com/Prath-code/Python_PR.-2-Logic-Box)">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
