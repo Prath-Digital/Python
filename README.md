@@ -60,7 +60,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 1 Fundamental Booster</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="[Projects/Pr.1_fundamental_booster/](https://github.com/Prath-code/Python_PR.-1-Fundamental-Booster)">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-1-Fundamental-Booster" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -103,7 +103,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#388e3c;">PR. 2 Logic Box</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="[Projects/Pr.2_logic_box/](https://github.com/Prath-code/Python_PR.-2-Logic-Box)">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-2-Logic-Box" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -119,8 +119,8 @@
           <li><span style="color:#388e3c;">Collection Datatypes (List, Tuple)</span></li>
           <li><span style="color:#fbc02d;">Mutability Of List & Tuple</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="#">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="#">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_3/lec_3.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_3/lec_3.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -131,13 +131,25 @@
           <li><span style="color:#1976d2;">Types Of Comments</span></li>
           <li><span style="color:#fbc02d;">Type Casting And Del Keyword</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="#">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="#">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_3/lec_3.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_3/lec_3.2/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff"><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">6</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 3 Collection Manipulator</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">6.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <span style="color:#d32f2f;">PR. 3</span> <span style="color:#1976d2;">Collection Manipulator</span><br>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-3-Collection-Manipulator" target="_blank">Code</a></span>
       </td>
     </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
 <blockquote>
-  <b>Note:</b> This document tracks progress in Python lab work and self exercises.
+  <b>Note:</b> This is part of repositry <a href="https://github.com/Prath-code/Python"></a>
 </blockquote>
