@@ -147,6 +147,22 @@
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-3-Collection-Manipulator" target="_blank">Code</a></span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;"><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">7</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Function, Array & Sorting</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">7.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#388e3c;">Built-In Functions, UDF</span></li>
+          <li><span style="color:#1976d2;">Arbitrary Arguments (*Args), Keyword Arguments (**Kwargs) And __doc__</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr style="background:transparent;">
