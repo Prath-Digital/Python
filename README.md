@@ -156,16 +156,55 @@
       <td style="padding:10px 8px;border:2px solid #000;">7.1</td>
       <td style="padding:10px 8px;border:2px solid #000;">
         <ul style="margin:0;padding-left:18px;">
-          <li><span style="color:#388e3c;">Built-In Functions, UDF</span></li>
-          <li><span style="color:#1976d2;">Arbitrary Arguments (*Args), Keyword Arguments (**Kwargs) And __doc__</span></li>
+          <li><span style="color:#d32f2f;">Built-In Functions, UDF</span></li>
+          <li><span style="color:#1976d2;">Arbitrary Arguments (*Args)</span></li>
+          <li><span style="color:#388e3c;">Keyword Arguments (**Kwargs)</span></li>
+          <li><span style="color:#fbc02d;">__doc__</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">7.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Function Recursion</span></li>
+          <li><span style="color:#1976d2;">Anonymous / Lambda Function</span></li>
+          <li><span style="color:#388e3c;">Global Keyword</span></li>
+          <li><span style="color:#fbc02d;">Return Multiple Values</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">7.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">1D & 2D Array With List</span></li>
+          <li><span style="color:#1976d2;">Sorting Collection Datatypes (Sort() Method Of List And Sorted() Function)</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">8</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 4 Function & Array Pro</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">8.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">1D & 2D Array With List</span></li>
+          <li><span style="color:#1976d2;">Sorting Collection Datatypes (Sort() Method Of List And Sorted() Function)</span></li>
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
       </td>
     </tr>
   </tbody>
-</table>
+  </table>
 <hr style="background:transparent;">
-<blockquote>
-  <b>Note:</b> This is part of repositry <a href="https://github.com/Prath-code/Python"></a>
-</blockquote>
