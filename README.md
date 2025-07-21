@@ -269,6 +269,25 @@
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-5-OOP-Wrapper">code</a></span>
       </td>
     </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">11</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Exception And File Handling</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">11.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Text File Handling</span></li>
+          <li><span style="color:#1976d2;">Modes Of Opening File</span></li>
+          <li><span style="color:#388e3c;">I/O Operation With File</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+    </tr>
   </tbody>
   </table>
 <hr style="background:transparent;">
