@@ -143,7 +143,7 @@
     <tr style="background:#fff;color:#000;">
       <td style="padding:10px 8px;border:2px solid #000;">6.1</td>
       <td style="padding:10px 8px;border:2px solid #000;">
-        <span style="color:#d32f2f;">PR. 3</span> <span style="color:#1976d2;">Collection Manipulator</span><br>
+        <span style="color:#d32f2f;">PR. 3 Collection Manipulator</span><br>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-3-Collection-Manipulator" target="_blank">Code</a></span>
       </td>
     </tr>
