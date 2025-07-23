@@ -287,6 +287,43 @@
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">11.2</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">What Is Exception?</span></li>
+          <li><span style="color:#1976d2;">Try ... Except</span></li>
+          <li><span style="color:#388e3c;">Try ... Except ... Else</span></li>
+          <li><span style="color:#fbc02d;">Try ... Except ... Finally</span></li>
+          <li><span style="color:#7b1fa2;">Try ... Except ... Else ... Finally</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.2/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">11.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Raise &amp; Assert Keyword</span></li>
+          <li><span style="color:#1976d2;">Custom Exception</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.3/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">12</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 6 File Operator</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">12.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <li><span style="color:#d32f2f;">PR. 6 File Operator</span></li>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-6-File-Operator">Code</a></span>
+      </td>
     </tr>
   </tbody>
   </table>
