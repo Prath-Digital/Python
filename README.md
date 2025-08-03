@@ -1,7 +1,7 @@
 <h1>🐍 Python Lab & Practice Progress</h1>
 <img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%2323272f?logo=python&label=Python" alt="Python Lab work and Self exercises">
 <hr style="background:transparent;">
-<table style="width:100%;border-collapse:collapse;font-family:'Segoe UI',Arial,sans-serif;">
+<table style="width:100%;border-collapse:collapse;font-family:'cascadia code','Segoe UI',Arial,sans-serif;">
   <thead>
     <tr style="background:#000;color:#fff;">
       <th style="padding:10px 8px;border:2px solid #fff;background:#000;">No.</th>
@@ -350,10 +350,74 @@
           <li><span style="color:#1976d2;">Uuid Module</span></li>
           <li><span style="color:#388e3c;">Higher Order Functions (Sorted(), Map(), Reduce() &amp; Filter())</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.2/">Self Exercises</a></span>
+      </td>
+    </tr>>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">13.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#388e3c;">Basic Terminal Commands</span></li>
+          <li><span style="color:#1976d2;">Os Module</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.3/">Self Exercises</a></span>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 7 Moduler & Packager
+        </span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">13.4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Creating, Importing & Renaming Modules</span></li>
+          <li><span style="color:#1976d2;">__name__ With __main__</span></li>
+          <li><span style="color:#388e3c;">Creating & Using Package Dir() And __init__.py</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.4/">Self Exercises</a></span>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 7 Moduler & Packager
+        </span>
+      </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">13.5</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">What Is Web Scrapping?</span></li>
+          <li><span style="color:#1976d2;">Requests Library</span></li>
+          <li><span style="color:#388e3c;">Beautifulsoup Library</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.5/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.5/">Self Exercises</a></span>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 7 Moduler & Packager
+        </span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">14</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 7 Moduler & Packager</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">14.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. 7 Moduler & Packager</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-7-Moduler-Packager" target="_blank">Code</a></span>
       </td>
     </tr>
   </tbody>
   </table>
 <hr style="background:transparent;">
+<blockquote>
+  <b>Note:</b> This table tracks your Python learning progress, including lab work and self exercises for each topic. Keep updating as you complete more sections!
+</blockquote>
