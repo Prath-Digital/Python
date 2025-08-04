@@ -174,8 +174,8 @@
           <li><span style="color:#388e3c;">Global Keyword</span></li>
           <li><span style="color:#fbc02d;">Return Multiple Values</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -185,8 +185,8 @@
           <li><span style="color:#d32f2f;">1D & 2D Array With List</span></li>
           <li><span style="color:#1976d2;">Sorting Collection Datatypes (Sort() Method Of List And Sorted() Function)</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -200,7 +200,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 4 Functional Treat</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-4-Functional-Treat">code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-4-Functional-Treat" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -229,8 +229,8 @@
           <li><span style="color:#1976d2;">Reflection Enabling Functions</span></li>
           <li><span style="color:#388e3c;">Nested Function</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -240,8 +240,8 @@
           <li><span style="color:#d32f2f;">Method Overloading & Method Overriding</span></li>
           <li><span style="color:#1976d2;">Issubclass() And Super()</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -266,7 +266,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 5 OOP Wrapper</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-5-OOP-Wrapper">code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-5-OOP-Wrapper" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -322,7 +322,7 @@
       <td style="padding:10px 8px;border:2px solid #000;">12.1</td>
       <td style="padding:10px 8px;border:2px solid #000;">
         <li><span style="color:#d32f2f;">PR. 6 File Operator</span></li>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-6-File-Operator">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-6-File-Operator" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -413,8 +413,42 @@
           <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. 7 Moduler & Packager</span></li>
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-7-Moduler-Packager" target="_blank">Code</a></span>
+            </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">15</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Assignment</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">15.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/book.png" style="vertical-align:middle;margin-right:4px;">Assignment</span>
+          <span style="color:#fff;background:#ff5722;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python/releases/download/Python_assignment/Python_assignment.pdf" target="_blank">Write</a></span></li>
+          <li><span style="color:#222;font-weight:bold;"><img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">PR. Final Project</span></li>
+        </ul>
+              </td>
+      </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">16</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Data Analysis</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">16.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Introduction To Numpy</span></li>
+          <li><span style="color:#1976d2;">Installation Of Jupyter Notebook</span></li>
+          <li><span style="color:#388e3c;">Working With Google Colab</span></li>
+          <li><span style="color:#fbc02d;">Creation, Indexing, And Slicing Of Numpy Arrays</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.1/">Self Exercises</a></span>
       </td>
     </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
   </tbody>
   </table>
 <hr style="background:transparent;">
