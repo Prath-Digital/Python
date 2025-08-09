@@ -460,6 +460,19 @@
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.2/">Self Exercises</a></span>
       </td>
     </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">16.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Filter Arrays (Boolean indexing list)</span></li>
+          <li><span style="color:#1976d2;">Masking Arrays</span></li>
+          <li><span style="color:#388e3c;">Reshaping Arrays</span></li>
+          <li><span style="color:#fbc02d;">Broadcasting Arrays</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.3/">Self Exercises</a></span>
+      </td>
+    </tr>
   </tbody>
   </table>
 <hr style="background:transparent;">
