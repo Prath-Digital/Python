@@ -60,7 +60,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 1 Fundamental Booster</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-1-Fundamental-Booster" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-1-Fundamental-Booster" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -103,7 +103,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#388e3c;">PR. 2 Logic Box</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-2-Logic-Box" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-2-Logic-Box" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -144,7 +144,7 @@
       <td style="padding:10px 8px;border:2px solid #000;">6.1</td>
       <td style="padding:10px 8px;border:2px solid #000;">
         <span style="color:#d32f2f;">PR. 3 Collection Manipulator</span><br>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-3-Collection-Manipulator" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-3-Collection-Manipulator" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;"><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -200,7 +200,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 4 Functional Treat</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-4-Functional-Treat" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-4-Functional-Treat" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -266,7 +266,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">PR. 5 OOP Wrapper</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-5-OOP-Wrapper" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-5-OOP-Wrapper" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -322,7 +322,7 @@
       <td style="padding:10px 8px;border:2px solid #000;">12.1</td>
       <td style="padding:10px 8px;border:2px solid #000;">
         <li><span style="color:#d32f2f;">PR. 6 File Operator</span></li>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-6-File-Operator" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:8px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-6-File-Operator" target="_blank">Code</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -412,7 +412,7 @@
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. 7 Moduler & Packager</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python_PR.-7-Moduler-Packager" target="_blank">Code</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-7-Moduler-Packager" target="_blank">Code</a></span>
             </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -425,7 +425,7 @@
       <td style="padding:10px 8px;border:2px solid #000;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/book.png" style="vertical-align:middle;margin-right:4px;">Assignment</span>
-          <span style="color:#fff;background:#ff5722;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-code/Python/releases/download/Python_assignment/Python_assignment.pdf" target="_blank">Write</a></span></li>
+          <span style="color:#fff;background:#ff5722;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python/releases/download/Python_assignment/Python_assignment.pdf" target="_blank">Write</a></span></li>
           <li><span style="color:#222;font-weight:bold;"><img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">PR. Final Project</span></li>
         </ul>
               </td>
