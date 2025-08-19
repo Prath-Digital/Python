@@ -1,3 +1,43 @@
+![python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+
+# 🐍 Python
+
+![Static Badge](https://img.shields.io/badge/is%20fun-black?style=plastic&logo=python&label=Python)
+
+
+This repository contains Python scripts and projects developed for various purposes.  
+It is intended for learning, experimentation, and demonstration of Python programming concepts.
+
+## Contents
+
+- Multiple Python scripts for different tasks
+- Example projects and code samples
+- Documentation and usage instructions
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Python
+   ```
+3. Run scripts using Python:
+   ```bash
+   python script_name.py
+   ```
+
+## Requirements
+
+- Python 3 or higher
+- Additional dependencies may be listed in individual scripts
+
+## License
+
+This project is licensed under the MIT License.
+
 <h1>🐍 Python Lab & Practice Progress</h1>
 <img src="https://img.shields.io/badge/Lab%20work%20and%20Self%20exercises-%2323272f?logo=python&label=Python" alt="Python Lab work and Self exercises">
 <hr style="background:transparent;">
@@ -486,9 +526,43 @@
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.4/">Self Exercises</a></span>
       </td>
     </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">16.5</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Read and Write CSV, JSON, and Excel files</span></li>
+          <li><span style="color:#1976d2;">Handle missing values, duplicates, and data types</span></li>
+          <li><span style="color:#388e3c;">Handle dates and times using Pandas</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.5/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.5/">Self Exercises</a></span>
+        <br>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 8 Analyzer
+        </span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">16.6</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Summarize and Visualize data Sorting, Filtering & Aggregation</span></li>
+          <li><span style="color:#1976d2;">How to merge and join data using Pandas</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.6/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.6/">Self Exercises</a></span>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 7 Moduler & Packager
+        </span>
+      </td>
+    </tr>
+    <tr 
   </tbody>
   </table>
 <hr style="background:transparent;">
 <blockquote>
   <b>Note:</b> This table tracks your Python learning progress, including lab work and self exercises for each topic. Keep updating as you complete more sections!
 </blockquote>
+
