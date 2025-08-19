@@ -558,7 +558,6 @@ This project is licensed under the MIT License.
         </span>
       </td>
     </tr>
-    <tr 
   </tbody>
   </table>
 <hr style="background:transparent;">
