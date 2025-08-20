@@ -552,9 +552,27 @@ This project is licensed under the MIT License.
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.6/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.6/">Self Exercises</a></span>
+        <br>
         <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
-          PR. 7 Moduler & Packager
+          PR. 8 Analyzer
+        </span>
+      </td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">16.7</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Pivoting</span></li>
+          <li><span style="color:#1976d2;">Re-Indexing & Altering labels</span></li>
+          <li><span style="color:#388e3c;">Groupby() & Transform()</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.7/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.7/">Self Exercises</a></span>
+        <br>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 8 Analyzer
         </span>
       </td>
     </tr>
@@ -562,6 +580,5 @@ This project is licensed under the MIT License.
   </table>
 <hr style="background:transparent;">
 <blockquote>
-  <b>Note:</b> This table tracks your Python learning progress, including lab work and self exercises for each topic. Keep updating as you complete more sections!
+  <b>Note:</b><br>This table tracks your Python learning progress, including lab work and self exercises for each topic.
 </blockquote>
-
