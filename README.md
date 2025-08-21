@@ -610,9 +610,27 @@ This project is licensed under the MIT License.
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-8-Analyzer" target="_blank">Code</a></span>
       </td>
     </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">18</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>Data Visualization</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">18.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Introduction to Matplotlib</span></li>
+          <li><span style="color:#1976d2;">Bar, Line, Scatter, Pie, Histogram plots</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_9/lec_9.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_9/lec_9.1/">Self Exercises</a></span>
+      </td>
+    </tr>
   </tbody>
   </table>
 <hr style="background:transparent;">
 <blockquote>
-  <b>Note:</b><br>This table tracks your Python learning progress, including lab work and self exercises for each topic.
+  <b>📝 Note:</b><br>This table tracks your Python learning progress, including lab work and self exercises for each topic.
 </blockquote>
+<br>
+<blockquote><b>💡 Tip:</b><br>Explore official Python documentation and community forums to deepen your understanding and solve coding challenges efficiently.</blockquote>
