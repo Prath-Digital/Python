@@ -4,7 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/is%20fun-black?style=plastic&logo=python&label=Python)
 
-
 This repository contains Python scripts and projects developed for various purposes.  
 It is intended for learning, experimentation, and demonstration of Python programming concepts.
 
@@ -403,6 +402,7 @@ This project is licensed under the MIT License.
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.3/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.3/">Self Exercises</a></span>
+        <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
           PR. 7 Moduler & Packager
@@ -419,6 +419,7 @@ This project is licensed under the MIT License.
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.4/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.4/">Self Exercises</a></span>
+        <br>
         <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
           PR. 7 Moduler & Packager
@@ -435,6 +436,7 @@ This project is licensed under the MIT License.
         </ul>
         <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.5/">Lab Work</a></span>
         <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.5/">Self Exercises</a></span>
+        <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
           PR. 7 Moduler & Packager
@@ -574,6 +576,38 @@ This project is licensed under the MIT License.
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
           PR. 8 Analyzer
         </span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">16.8</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Handle categorical variables</span></li>
+          <li><span style="color:#1976d2;">Perform categorical analysis</span></li>
+          <li><span style="color:#388e3c;">Compare and order categories</span></li>
+          <li><span style="color:#fbc02d;">Rename categories</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.8/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.8/">Self Exercises</a></span>
+        <br>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 8 Analyzer
+        </span>
+      </td>
+    </tr>
+    <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">17</td>
+      <td style="padding:10px 8px;border:2px solid #fff;"><b>PR. 8 Analyzer</b></td>
+    </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">17.1</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;"><img src="https://img.icons8.com/ios-filled/16/ff0000/settings.png" style="vertical-align:middle;margin-right:4px;">Submission Of PR. 8 Analyzer</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="https://github.com/Prath-Digital/Python_PR.-8-Analyzer" target="_blank">Code</a></span>
       </td>
     </tr>
   </tbody>
