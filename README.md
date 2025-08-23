@@ -61,8 +61,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">First Python Program</span></li>
           <li><span style="color:#fbc02d;">Types Of Mode To Run Program</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_1/lec_1.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_1/lec_1.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_1/lec_1.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -72,8 +72,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#fbc02d;">Print() And Input() Functions In Detail</span></li>
           <li><span style="color:#388e3c;">Variables, And Datatypes</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_1/lec_1.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_1/lec_1.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_1/lec_1.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff; color:#000;">
@@ -84,8 +84,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Type Casting Constructors</span></li>
           <li><span style="color:#388e3c;">Id() And Type() Functions</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_1/lec_1.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_1/lec_1.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_1/lec_1.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_1/lec_1.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff; background:transparent;"></td></tr>
@@ -115,8 +115,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Types Of Loop (While And For)</span></li>
           <li><span style="color:#fbc02d;">Range() Function</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_2/lec_2.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_2/lec_2.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -127,8 +127,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">List Comprehension</span></li>
           <li><span style="color:#388e3c;">Nested Loop</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_2/lec_2.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_2/lec_2.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_2/lec_2.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_2/lec_2.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -158,8 +158,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Collection Datatypes (List, Tuple)</span></li>
           <li><span style="color:#fbc02d;">Mutability Of List & Tuple</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_3/lec_3.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_3/lec_3.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_3/lec_3.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_3/lec_3.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -170,8 +170,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Types Of Comments</span></li>
           <li><span style="color:#fbc02d;">Type Casting And Del Keyword</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_3/lec_3.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_3/lec_3.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_3/lec_3.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_3/lec_3.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff"><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -200,8 +200,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Keyword Arguments (**Kwargs)</span></li>
           <li><span style="color:#fbc02d;">__doc__</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -213,8 +213,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Global Keyword</span></li>
           <li><span style="color:#fbc02d;">Return Multiple Values</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -224,8 +224,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#d32f2f;">1D & 2D Array With List</span></li>
           <li><span style="color:#1976d2;">Sorting Collection Datatypes (Sort() Method Of List And Sorted() Function)</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_4/lec_4.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_4/lec_4.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -256,8 +256,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Constructor And Destructor</span></li>
           <li><span style="color:#fbc02d;">Encapsulation</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_5/lec_5.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -268,8 +268,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Reflection Enabling Functions</span></li>
           <li><span style="color:#388e3c;">Nested Function</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_5/lec_5.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -279,8 +279,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#d32f2f;">Method Overloading & Method Overriding</span></li>
           <li><span style="color:#1976d2;">Issubclass() And Super()</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_5/lec_5.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -290,8 +290,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#d32f2f;">Built-In Dunder Methods</span></li>
           <li><span style="color:#1976d2;">Operator Overloading</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_5/lec_5.4/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_5/lec_5.4/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_5/lec_5.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_5/lec_5.4/">Self Exercises</a></span>
       </td>
     </tr>
     <tr><td colspan="2" style="background:#000;"><hr style="border:1px solid #fff;"></td></tr>
@@ -321,8 +321,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Modes Of Opening File</span></li>
           <li><span style="color:#388e3c;">I/O Operation With File</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_6/lec_6.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_6/lec_6.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -335,8 +335,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#fbc02d;">Try ... Except ... Finally</span></li>
           <li><span style="color:#7b1fa2;">Try ... Except ... Else ... Finally</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_6/lec_6.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_6/lec_6.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -346,8 +346,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#d32f2f;">Raise &amp; Assert Keyword</span></li>
           <li><span style="color:#1976d2;">Custom Exception</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_6/lec_6.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_6/lec_6.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_6/lec_6.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_6/lec_6.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -377,8 +377,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Time Module</span></li>
           <li><span style="color:#388e3c;">Math Module</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_7/lec_7.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_7/lec_7.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -389,8 +389,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Uuid Module</span></li>
           <li><span style="color:#388e3c;">Higher Order Functions (Sorted(), Map(), Reduce() &amp; Filter())</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_7/lec_7.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_7/lec_7.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -400,8 +400,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Basic Terminal Commands</span></li>
           <li><span style="color:#1976d2;">Os Module</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_7/lec_7.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_7/lec_7.3/">Self Exercises</a></span>
         <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -417,8 +417,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">__name__ With __main__</span></li>
           <li><span style="color:#388e3c;">Creating & Using Package Dir() And __init__.py</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.4/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.4/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_7/lec_7.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_7/lec_7.4/">Self Exercises</a></span>
         <br>
         <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -434,8 +434,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Requests Library</span></li>
           <li><span style="color:#388e3c;">Beautifulsoup Library</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_7/lec_7.5/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_7/lec_7.5/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_7/lec_7.5/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_7/lec_7.5/">Self Exercises</a></span>
         <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -486,8 +486,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Working With Google Colab</span></li>
           <li><span style="color:#fbc02d;">Creation, Indexing, And Slicing Of Numpy Arrays</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.1/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -498,8 +498,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Mathematical Operations, Combining and Splitting Arrays</span></li>
           <li><span style="color:#388e3c;">Search, Sort, Aggregating/Statistical Functions</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.2/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.2/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.2/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -511,8 +511,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Reshaping Arrays</span></li>
           <li><span style="color:#fbc02d;">Broadcasting Arrays</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.3/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.3/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.3/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
@@ -524,8 +524,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Creation of DataFrames, Exploring Data (Series and DataFrame)</span></li>
           <li><span style="color:#fbc02d;">Operations on DataFrames</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.4/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.4/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.4/">Self Exercises</a></span>
       </td>
     </tr>
     <tr style="background:#fff;color:#000;">
@@ -536,8 +536,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Handle missing values, duplicates, and data types</span></li>
           <li><span style="color:#388e3c;">Handle dates and times using Pandas</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.5/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.5/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.5/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.5/">Self Exercises</a></span>
         <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -552,8 +552,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#d32f2f;">Summarize and Visualize data Sorting, Filtering & Aggregation</span></li>
           <li><span style="color:#1976d2;">How to merge and join data using Pandas</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.6/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.6/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.6/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.6/">Self Exercises</a></span>
         <br>
         <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -569,8 +569,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#1976d2;">Re-Indexing & Altering labels</span></li>
           <li><span style="color:#388e3c;">Groupby() & Transform()</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.7/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.7/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.7/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.7/">Self Exercises</a></span>
         <br>
         <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -587,8 +587,8 @@ This project is licensed under the MIT License.
           <li><span style="color:#388e3c;">Compare and order categories</span></li>
           <li><span style="color:#fbc02d;">Rename categories</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_8/lec_8.8/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_8/lec_8.8/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_8/lec_8.8/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_8/lec_8.8/">Self Exercises</a></span>
         <br>
         <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
           <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
@@ -622,8 +622,24 @@ This project is licensed under the MIT License.
           <li><span style="color:#d32f2f;">Introduction to Matplotlib</span></li>
           <li><span style="color:#1976d2;">Bar, Line, Scatter, Pie, Histogram plots</span></li>
         </ul>
-        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="Lab Work/ch_9/lec_9.1/">Lab Work</a></span>
-        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="Self Exercises/ch_9/lec_9.1/">Self Exercises</a></span>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_9/lec_9.1/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_9/lec_9.1/">Self Exercises</a></span>
+      </td>
+    </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">16.8</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Stack Plot, Legends, Subplot</span></li>
+          <li><span style="color:#1976d2;">Save a Chart Using Matplotlib</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_9/lec_9.2/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_9/lec_9.2/">Self Exercises</a></span>
+        <br>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 9 Visualizer
+        </span>
       </td>
     </tr>
   </tbody>
