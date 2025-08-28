@@ -1,0 +1,13 @@
+string1 = input("Enter a string: ")
+string2 = int(input("Enter a integer: "))
+string3 = float(input("Enter a float: "))
+string4 = bool(input("Enter a boolean: "))
+
+print("String:", string1)
+type(string1)
+print("Integer:", string2)
+type(string2)
+print("Float:", string3)
+type(string3)
+print("Boolean:", string4)
+type(string4)
