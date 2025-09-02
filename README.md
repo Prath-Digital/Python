@@ -627,7 +627,7 @@ This project is licensed under the MIT License.
       </td>
     </tr>
     <tr style="background:#222;color:#fff;">
-      <td style="padding:10px 8px;border:2px solid #fff;">16.8</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">18.2</td>
       <td style="padding:10px 8px;border:2px solid #fff;">
         <ul style="margin:0;padding-left:18px;">
           <li><span style="color:#d32f2f;">Stack Plot, Legends, Subplot</span></li>
@@ -642,6 +642,20 @@ This project is licensed under the MIT License.
         </span>
       </td>
     </tr>
+    <tr style="background:#fff;color:#000;">
+      <td style="padding:10px 8px;border:2px solid #000;">18.3</td>
+      <td style="padding:10px 8px;border:2px solid #000;">
+          <span style="color:#d32f2f;">Data Visualization in Seaborn</span>
+          <br>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_9/lec_9.3/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_9/lec_9.3/">Self Exercises</a></span>
+        <br>
+        <span style="color:#222;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/000000/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 9 Visualizer
+        </span>
+      </td>
+    </tr>
   </tbody>
   </table>
 <hr style="background:transparent;">
@@ -650,4 +664,3 @@ This project is licensed under the MIT License.
 </blockquote>
 <br>
 <blockquote><b>💡 Tip:</b><br>Explore official Python documentation and community forums to deepen your understanding and solve coding challenges efficiently.</blockquote>
-# Python
