@@ -1,0 +1,511 @@
+Customer_ID,Gender,Age,Region,Product_Category,Units_Purchased,Price_Per_Unit,Purchase_Date,Total_Amount
+CUST087,Female,63,East,Books,4,10.48,2024-05-28,41.92
+CUST064,Male,23,West,Sports & Outdoors,3,112.43,2024-09-12,337.29
+CUST025,Male,50,West,Sports & Outdoors,6,128.94,2024-07-09,773.64
+CUST015,Female,59,Central,Health & Beauty,1,49.34,2024-07-21,49.34
+CUST023,Male,29,West,Books,4,29.51,2024-08-19,118.04
+CUST027,Female,20,West,Health & Beauty,6,79.15,2024-10-16,474.9
+CUST055,Female,33,Central,Books,4,28.55,2024-01-06,114.2
+CUST074,Female,63,North,Clothing,2,30.56,2024-05-13,61.12
+CUST064,Male,46,South,Clothing,6,88.87,2024-03-20,533.22
+CUST009,Male,46,East,Books,3,20.5,2024-10-22,61.5
+CUST030,Male,51,North,Home & Kitchen,2,141.35,2024-12-13,282.7
+CUST054,Male,51,West,Clothing,3,74.64,2024-01-13,223.92
+CUST054,Female,57,West,Home & Kitchen,6,,2024-06-23,
+CUST052,Male,28,Central,Clothing,2,96.36,2024-04-02,192.72
+CUST083,Female,41,East,Sports & Outdoors,6,159.81,2024-12-16,958.86
+CUST042,Male,41,South,Electronics,4,413.35,2024-05-12,1653.4
+CUST051,Male,36,Central,Electronics,4,454.03,2024-01-11,1816.12
+CUST022,Male,42,Central,Sports & Outdoors,1,70.88,2024-05-10,70.88
+CUST020,Female,44,South,Books,4,8.88,2024-05-27,35.52
+CUST062,Male,67,South,Health & Beauty,5,18.93,2024-08-28,94.65
+CUST073,Male,39,West,Electronics,4,1031.43,2024-12-22,4125.72
+CUST011,Female,61,Central,Clothing,5,60.53,2024-02-28,302.65
+CUST008,Female,56,North,Clothing,4,70.29,2024-04-05,281.16
+CUST071,Female,21,North,Electronics,5,800.84,2024-05-24,4004.2
+CUST082,Female,68,Central,Electronics,5,732.35,2024-08-25,3661.75
+CUST086,Female,58,South,Health & Beauty,6,60.62,2024-06-09,363.72
+CUST094,Female,59,East,Electronics,4,465.94,2024-12-14,1863.76
+CUST001,Male,39,South,Books,5,19.8,2024-10-21,99.0
+CUST081,Female,22,South,Health & Beauty,1,55.04,2024-02-07,55.04
+CUST009,Male,39,East,Sports & Outdoors,3,73.56,2024-08-07,220.68
+CUST065,Female,24,South,Sports & Outdoors,6,79.23,2024-07-24,475.38
+CUST009,Male,53,East,Electronics,5,809.04,2024-08-25,4045.2
+CUST041,Male,61,Central,Clothing,5,36.26,2024-09-28,181.3
+CUST030,Male,42,East,Sports & Outdoors,6,166.41,2024-06-27,998.46
+CUST021,Female,36,North,Electronics,1,829.11,2024-01-17,829.11
+CUST099,Female,34,East,Books,1,16.6,2024-03-03,16.6
+CUST068,Female,64,South,Books,2,,2024-05-23,
+CUST043,Female,60,Central,Clothing,6,86.76,2024-09-13,520.56
+CUST061,Male,56,East,Health & Beauty,6,59.27,2024-03-25,355.62
+CUST056,Female,27,South,Clothing,3,25.29,2024-09-19,75.87
+CUST098,Female,39,East,Electronics,2,958.94,2024-01-06,1917.88
+CUST099,Female,23,Central,Clothing,6,78.4,2024-04-27,470.4
+CUST068,Male,55,Central,Health & Beauty,5,70.02,2024-04-27,350.1
+CUST084,Female,60,North,Home & Kitchen,1,64.48,2024-01-08,64.48
+CUST018,Female,27,Central,Clothing,5,26.9,2024-01-15,134.5
+CUST022,Female,40,South,Sports & Outdoors,6,101.03,2024-01-12,606.18
+CUST072,Female,37,Central,Health & Beauty,6,44.47,2024-12-07,266.82
+CUST033,Female,59,Central,Home & Kitchen,6,202.21,2024-05-12,1213.26
+CUST096,Female,62,South,Health & Beauty,4,35.1,2024-08-17,140.4
+CUST048,Female,60,South,Health & Beauty,3,63.21,2024-07-21,189.63
+CUST098,Male,43,Central,Sports & Outdoors,4,154.62,2024-02-22,618.48
+CUST099,Male,26,Central,Home & Kitchen,1,79.86,2024-01-08,79.86
+CUST002,Female,56,East,Clothing,1,76.63,2024-06-16,76.63
+CUST068,Male,63,Central,Home & Kitchen,1,,2024-10-15,
+CUST096,Female,23,North,Clothing,3,33.11,2024-03-28,99.33
+CUST043,Male,37,North,Sports & Outdoors,2,191.78,2024-08-19,383.56
+CUST032,Female,53,North,Health & Beauty,5,49.0,2024-09-12,245.0
+CUST079,Female,42,North,Clothing,6,82.64,2024-06-06,495.84
+CUST073,Female,59,Central,Books,5,23.86,2024-05-24,119.3
+CUST006,Female,68,East,Home & Kitchen,5,91.74,2024-12-03,458.7
+CUST058,Male,39,South,Home & Kitchen,5,81.73,2024-05-01,408.65
+CUST006,Female,70,Central,Electronics,6,1024.9,2024-07-02,6149.4
+CUST027,Male,26,West,Health & Beauty,5,32.47,2024-03-28,162.35
+CUST059,Male,60,Central,Health & Beauty,2,72.62,2024-10-25,145.24
+CUST097,Female,62,North,Sports & Outdoors,4,160.0,2024-04-28,640.0
+CUST052,Male,65,West,Clothing,3,22.35,2024-04-21,67.05
+CUST067,Female,61,Central,Sports & Outdoors,4,166.24,2024-04-22,664.96
+CUST097,Male,51,East,Sports & Outdoors,4,72.6,2024-04-09,290.4
+CUST082,Female,23,East,Books,6,9.41,2024-11-14,56.46
+CUST089,Male,59,West,Health & Beauty,5,61.3,2024-09-01,306.5
+CUST090,Male,60,South,Books,6,20.69,2024-11-01,124.14
+CUST040,Female,45,West,Electronics,5,461.66,2024-08-05,2308.3
+CUST068,Male,50,East,Home & Kitchen,2,163.8,2024-11-06,327.6
+CUST059,Male,41,West,Sports & Outdoors,3,88.02,2024-10-26,264.06
+CUST028,Female,19,North,Sports & Outdoors,1,112.43,2024-01-08,112.43
+CUST099,Female,41,North,Books,4,20.47,2024-05-20,81.88
+CUST035,Female,37,South,Health & Beauty,1,38.9,2024-05-23,38.9
+CUST020,Female,29,West,Home & Kitchen,3,113.78,2024-12-21,341.34
+CUST029,Male,31,West,Sports & Outdoors,4,,2024-05-14,
+CUST063,Female,39,West,Books,1,20.63,2024-07-28,20.63
+CUST022,Female,67,West,Books,1,23.9,2024-06-15,23.9
+CUST054,Female,49,South,Clothing,6,38.27,2024-05-07,229.62
+CUST044,Female,30,East,Home & Kitchen,2,177.21,2024-08-10,354.42
+CUST029,Male,32,Central,Books,3,8.97,2024-11-17,26.91
+CUST091,Male,26,South,Clothing,3,89.03,2024-10-13,267.09
+CUST028,Male,27,East,Health & Beauty,3,30.9,2024-10-04,92.7
+CUST016,Female,22,East,Books,4,18.38,2024-01-17,73.52
+CUST032,Male,36,East,Clothing,2,50.64,2024-11-27,101.28
+CUST032,Male,68,West,Clothing,5,32.01,2024-06-18,160.05
+CUST092,Female,24,South,Home & Kitchen,4,282.79,2024-11-20,1131.16
+CUST022,Male,50,East,Sports & Outdoors,3,175.06,2024-10-10,525.18
+CUST037,Male,67,Central,Clothing,4,64.23,2024-05-22,256.92
+CUST045,Female,52,Central,Books,1,28.11,2024-02-16,28.11
+CUST018,Male,65,North,Electronics,4,992.53,2024-02-11,3970.12
+CUST034,Female,51,East,Health & Beauty,6,42.26,2024-05-21,253.56
+CUST061,Male,20,South,Books,6,15.08,2024-06-28,90.48
+CUST077,Male,60,West,Books,4,17.16,2024-05-09,68.64
+CUST011,Female,39,North,Health & Beauty,3,61.82,2024-11-23,185.46
+CUST075,Male,67,East,Health & Beauty,1,32.63,2024-11-10,32.63
+CUST025,Female,57,West,Clothing,3,26.23,2024-04-05,78.69
+CUST001,Female,26,South,Books,1,16.2,2024-09-25,16.2
+CUST081,Female,56,South,Clothing,6,60.16,2024-04-02,360.96
+CUST087,Female,42,North,Home & Kitchen,1,275.49,2024-10-13,275.49
+CUST064,Male,27,North,Clothing,1,34.35,2024-11-11,34.35
+CUST023,Male,28,East,Home & Kitchen,3,251.08,2024-11-05,753.24
+CUST093,Female,29,West,Sports & Outdoors,6,,2024-12-01,
+CUST096,Male,62,Central,Electronics,1,1163.26,2024-11-16,1163.26
+CUST027,Male,67,West,Books,6,9.52,2024-05-09,57.12
+CUST039,Male,57,South,Home & Kitchen,2,166.27,2024-07-13,332.54
+CUST034,Male,69,South,Electronics,6,,2024-07-24,
+CUST028,Female,28,East,Health & Beauty,2,69.92,2024-01-19,139.84
+CUST100,Male,64,Central,Sports & Outdoors,5,82.28,2024-12-19,411.4
+CUST085,Female,46,East,Clothing,2,64.25,2024-04-11,128.5
+CUST085,Male,20,South,Electronics,5,406.38,2024-12-23,2031.9
+CUST041,Male,44,South,Home & Kitchen,2,100.17,2024-04-22,200.34
+CUST028,Female,41,West,Books,3,20.4,2024-09-21,61.2
+CUST053,Female,61,Central,Sports & Outdoors,5,78.18,2024-08-22,390.9
+CUST037,Female,64,West,Health & Beauty,4,55.48,2024-06-17,221.92
+CUST080,Female,33,West,Health & Beauty,4,45.16,2024-05-28,180.64
+CUST021,Male,46,East,Electronics,2,873.35,2024-03-27,1746.7
+CUST013,Female,57,West,Electronics,4,794.69,2024-11-18,3178.76
+CUST087,Female,36,North,Clothing,6,81.81,2024-03-10,490.86
+CUST065,Male,66,North,Health & Beauty,2,27.7,2024-02-16,55.4
+CUST022,Male,65,West,Sports & Outdoors,2,182.58,2024-03-24,365.16
+CUST002,Female,68,Central,Sports & Outdoors,6,158.08,2024-05-24,948.48
+CUST088,Female,46,West,Health & Beauty,6,30.93,2024-09-25,185.58
+CUST025,Female,32,South,Clothing,4,20.51,2024-03-22,82.04
+CUST095,Female,52,South,Books,4,17.02,2024-06-21,68.08
+CUST065,Female,33,Central,Clothing,1,38.64,2024-02-08,38.64
+CUST058,Female,37,East,Home & Kitchen,6,136.61,2024-06-08,819.66
+CUST090,Female,69,North,Home & Kitchen,5,259.89,2024-12-28,1299.45
+CUST090,Male,68,North,Electronics,2,1101.76,2024-05-14,2203.52
+CUST064,Female,48,East,Clothing,4,96.08,2024-06-12,384.32
+CUST089,Female,30,West,Clothing,5,20.12,2024-05-19,100.6
+CUST034,Male,41,Central,Sports & Outdoors,4,140.03,2024-05-15,560.12
+CUST089,Male,61,West,Electronics,4,1079.2,2024-02-16,4316.8
+CUST045,Female,54,East,Sports & Outdoors,1,152.26,2024-01-28,152.26
+CUST013,Female,46,Central,Books,6,10.29,2024-11-19,61.74
+CUST019,Female,47,North,Clothing,2,62.39,2024-10-20,124.78
+CUST061,Female,67,North,Sports & Outdoors,2,66.68,2024-02-16,133.36
+CUST079,Male,36,West,Health & Beauty,3,46.98,2024-04-17,140.94
+CUST017,Female,67,South,Sports & Outdoors,6,35.48,2024-02-28,212.88
+CUST030,Female,42,East,Clothing,1,99.76,2024-11-13,99.76
+CUST037,Male,50,East,Books,5,23.66,2024-09-10,118.3
+CUST003,Male,51,West,Clothing,1,27.44,2024-07-02,27.44
+CUST093,Female,44,East,Health & Beauty,5,74.88,2024-03-05,374.4
+CUST082,Female,28,North,Home & Kitchen,2,274.32,2024-04-11,548.64
+CUST032,Male,70,West,Home & Kitchen,3,179.94,2024-07-19,539.82
+CUST001,Female,30,North,Books,3,23.42,2024-08-05,70.26
+CUST084,Male,69,Central,Books,2,16.19,2024-06-28,32.38
+CUST084,Male,56,Central,Health & Beauty,4,78.35,2024-12-06,313.4
+CUST086,Female,26,South,Sports & Outdoors,1,39.86,2024-02-16,39.86
+CUST059,Male,34,East,Home & Kitchen,3,73.89,2024-06-21,221.67
+CUST085,Male,21,Central,Home & Kitchen,6,83.38,2024-03-11,500.28
+CUST068,Male,59,East,Home & Kitchen,4,254.99,2024-11-02,1019.96
+CUST030,Female,48,North,Home & Kitchen,5,68.71,2024-01-15,343.55
+CUST011,Female,41,West,Health & Beauty,6,51.91,2024-05-07,311.46
+CUST075,Male,53,Central,Books,3,17.57,2024-03-19,52.71
+CUST072,Female,24,West,Books,5,29.21,2024-03-16,146.05
+CUST014,Male,63,Central,Electronics,4,589.42,2024-02-05,2357.68
+CUST012,Male,51,East,Sports & Outdoors,5,70.67,2024-10-14,353.35
+CUST027,Female,25,Central,Books,4,14.93,2024-11-14,59.72
+CUST043,Female,36,Central,Home & Kitchen,5,250.2,2024-07-14,1251.0
+CUST083,Female,23,North,Clothing,1,76.06,2024-08-13,76.06
+CUST030,Male,66,South,Home & Kitchen,3,233.84,2024-01-02,701.52
+CUST056,Male,28,North,Home & Kitchen,3,129.51,2024-09-07,388.53
+CUST046,Male,35,West,Books,4,13.98,2024-12-12,55.92
+CUST093,Female,46,East,Electronics,5,459.75,2024-01-11,2298.75
+CUST100,Female,50,East,Health & Beauty,2,28.18,2024-09-07,56.36
+CUST027,Male,27,Central,Clothing,6,82.39,2024-01-22,494.34
+CUST043,Female,45,East,Sports & Outdoors,6,127.32,2024-01-21,763.92
+CUST024,Female,23,South,Clothing,3,32.43,2024-12-08,97.29
+CUST073,Female,32,South,Electronics,5,531.5,2024-04-23,2657.5
+CUST090,Female,70,Central,Home & Kitchen,5,166.51,2024-06-10,832.55
+CUST038,Male,46,Central,Health & Beauty,1,41.42,2024-03-04,41.42
+CUST038,Female,40,West,Health & Beauty,6,49.84,2024-07-17,299.04
+CUST023,Male,19,Central,Health & Beauty,2,77.7,2024-10-10,155.4
+CUST016,Male,44,North,Sports & Outdoors,3,61.34,2024-03-03,184.02
+CUST087,Male,21,North,Books,1,14.78,2024-01-10,14.78
+CUST023,Female,43,North,Home & Kitchen,2,116.25,2024-05-15,232.5
+CUST029,Female,50,South,Clothing,3,29.59,2024-12-17,88.77
+CUST077,Male,41,East,Clothing,1,32.61,2024-10-17,32.61
+CUST023,Female,33,West,Home & Kitchen,2,221.51,2024-06-14,443.02
+CUST051,Male,42,Central,Clothing,3,86.11,2024-11-05,258.33
+CUST081,Female,23,West,Books,6,23.33,2024-06-16,139.98
+CUST050,Male,41,South,Health & Beauty,2,17.62,2024-06-25,35.24
+CUST027,Female,32,Central,Clothing,5,86.87,2024-04-06,434.35
+CUST031,Female,19,Central,Books,4,15.21,2024-07-01,60.84
+CUST060,Female,38,South,Health & Beauty,4,20.93,2024-04-08,83.72
+CUST006,Female,24,East,Sports & Outdoors,5,68.44,2024-12-05,342.2
+CUST012,Female,63,Central,Sports & Outdoors,2,87.25,2024-04-24,174.5
+CUST091,Male,59,East,Home & Kitchen,5,178.36,2024-01-19,891.8
+CUST023,Male,39,South,Home & Kitchen,4,219.3,2024-09-06,877.2
+CUST094,Female,68,West,Books,4,13.72,2024-02-12,54.88
+CUST041,Male,27,Central,Sports & Outdoors,2,198.37,2024-12-21,396.74
+CUST076,Female,26,East,Sports & Outdoors,4,30.44,2024-01-13,121.76
+CUST090,Male,20,Central,Sports & Outdoors,6,95.77,2024-11-09,574.62
+CUST011,Male,36,East,Books,5,17.95,2024-09-20,89.75
+CUST009,Female,48,Central,Books,6,24.46,2024-01-20,146.76
+CUST089,Female,62,Central,Clothing,6,39.99,2024-01-22,239.94
+CUST056,Female,26,Central,Sports & Outdoors,2,105.86,2024-02-21,211.72
+CUST079,Male,66,West,Home & Kitchen,5,250.97,2024-01-02,1254.85
+CUST068,Male,63,Central,Clothing,2,31.18,2024-12-04,62.36
+CUST095,Male,48,East,Clothing,4,20.96,2024-07-15,83.84
+CUST064,Male,46,West,Sports & Outdoors,3,170.32,2024-07-04,510.96
+CUST091,Female,57,North,Health & Beauty,2,78.87,2024-09-09,157.74
+CUST014,Female,18,East,Books,2,10.88,2024-08-23,21.76
+CUST003,Male,23,East,Clothing,3,85.89,2024-03-07,257.67
+CUST010,Male,19,North,Health & Beauty,4,39.2,2024-12-22,156.8
+CUST023,Male,34,West,Sports & Outdoors,5,135.3,2024-11-01,676.5
+CUST057,Male,31,Central,Electronics,1,915.75,2024-05-14,915.75
+CUST039,Female,27,East,Health & Beauty,3,52.85,2024-11-04,158.55
+CUST041,Female,53,North,Electronics,1,607.06,2024-11-17,607.06
+CUST005,Female,64,Central,Electronics,4,1050.2,2024-05-20,4200.8
+CUST069,Female,56,West,Sports & Outdoors,2,28.82,2024-10-23,57.64
+CUST056,Male,51,East,Electronics,2,451.58,2024-03-14,903.16
+CUST001,Female,45,Central,Electronics,4,1122.0,2024-02-17,4488.0
+CUST059,Male,25,Central,Books,5,,2024-12-20,
+CUST064,Female,67,South,Clothing,5,30.3,2024-02-10,151.5
+CUST070,Female,36,North,Sports & Outdoors,6,183.39,2024-02-26,1100.34
+CUST092,Female,33,Central,Clothing,4,86.35,2024-02-16,345.4
+CUST093,Male,37,West,Electronics,4,665.24,2024-04-20,2660.96
+CUST089,Female,25,South,Sports & Outdoors,6,,2024-04-25,
+CUST100,Male,21,Central,Clothing,4,56.88,2024-05-27,227.52
+CUST008,Female,33,Central,Electronics,4,534.39,2024-09-07,2137.56
+CUST074,Female,44,West,Clothing,6,65.91,2024-06-23,395.46
+CUST040,Male,58,South,Health & Beauty,4,68.41,2024-07-10,273.64
+CUST087,Female,68,South,Books,4,16.69,2024-03-02,66.76
+CUST041,Male,57,North,Home & Kitchen,2,57.37,2024-09-16,114.74
+CUST049,Female,47,Central,Electronics,1,946.57,2024-04-23,946.57
+CUST016,Female,22,North,Health & Beauty,5,26.23,2024-08-11,131.15
+CUST032,Male,25,South,Sports & Outdoors,1,62.58,2024-04-01,62.58
+CUST094,Female,49,North,Sports & Outdoors,2,57.75,2024-01-22,115.5
+CUST043,Female,56,West,Health & Beauty,3,33.19,2024-02-04,99.57
+CUST023,Male,52,East,Books,1,27.44,2024-10-22,27.44
+CUST058,Male,19,West,Sports & Outdoors,3,,2024-08-05,
+CUST001,Female,58,South,Books,2,21.62,2024-02-25,43.24
+CUST031,Male,50,West,Electronics,5,596.63,2024-09-03,2983.15
+CUST072,Male,54,South,Electronics,3,636.08,2024-12-24,1908.24
+CUST088,Male,33,West,Health & Beauty,2,41.78,2024-02-09,83.56
+CUST067,Male,63,Central,Health & Beauty,4,50.79,2024-11-08,203.16
+CUST026,Female,27,Central,Books,5,9.34,2024-08-10,46.7
+CUST067,Male,36,West,Electronics,6,623.82,2024-05-15,3742.92
+CUST046,Male,45,North,Electronics,4,509.79,2024-01-04,2039.16
+CUST034,Male,18,South,Health & Beauty,5,27.96,2024-03-28,139.8
+CUST047,Male,57,Central,Sports & Outdoors,5,179.81,2024-01-28,899.05
+CUST006,Male,40,South,Home & Kitchen,1,181.45,2024-05-12,181.45
+CUST097,Male,33,Central,Health & Beauty,5,56.0,2024-11-11,280.0
+CUST072,Male,54,East,Home & Kitchen,1,250.54,2024-07-24,250.54
+CUST008,Female,44,West,Electronics,3,1035.88,2024-02-04,3107.64
+CUST080,Male,29,Central,Health & Beauty,5,79.31,2024-01-01,396.55
+CUST098,Male,60,West,Sports & Outdoors,3,161.84,2024-03-22,485.52
+CUST091,Female,60,East,Sports & Outdoors,5,87.84,2024-11-06,439.2
+CUST018,Male,23,South,Books,1,19.98,2024-06-12,19.98
+CUST022,Male,51,West,Clothing,6,58.77,2024-08-20,352.62
+CUST047,Female,41,Central,Electronics,4,1130.14,2024-05-24,4520.56
+CUST020,Male,22,East,Electronics,5,801.91,2024-02-12,4009.55
+CUST001,Male,51,Central,Health & Beauty,2,40.24,2024-06-06,80.48
+CUST059,Male,52,East,Clothing,4,34.39,2024-02-13,137.56
+CUST045,Male,50,East,Clothing,1,45.51,2024-07-15,45.51
+CUST031,Male,68,Central,Clothing,6,37.52,2024-05-27,225.12
+CUST078,Female,50,West,Health & Beauty,6,73.22,2024-07-23,439.32
+CUST062,Male,53,South,Health & Beauty,2,65.6,2024-08-26,131.2
+CUST094,Female,19,South,Home & Kitchen,3,64.65,2024-07-21,193.95
+CUST085,Male,42,East,Home & Kitchen,1,297.88,2024-03-04,297.88
+CUST073,Male,48,Central,Home & Kitchen,4,182.36,2024-03-23,729.44
+CUST087,Female,20,East,Books,3,24.87,2024-12-02,74.61
+CUST054,Male,58,South,Electronics,3,1199.68,2024-03-04,3599.04
+CUST078,Male,42,East,Home & Kitchen,1,293.49,2024-07-19,293.49
+CUST099,Female,41,East,Books,4,10.2,2024-08-26,40.8
+CUST049,Male,34,South,Books,1,22.45,2024-10-22,22.45
+CUST022,Male,65,West,Health & Beauty,2,32.32,2024-08-06,64.64
+CUST054,Female,19,East,Clothing,2,85.3,2024-10-13,170.6
+CUST018,Female,40,West,Sports & Outdoors,6,185.52,2024-06-20,1113.12
+CUST100,Female,68,East,Clothing,5,24.47,2024-01-28,122.35
+CUST066,Male,22,Central,Home & Kitchen,6,,2024-11-27,
+CUST007,Female,40,East,Sports & Outdoors,3,63.4,2024-12-05,190.2
+CUST066,Male,33,East,Electronics,6,1077.2,2024-08-16,6463.2
+CUST023,Male,64,North,Sports & Outdoors,5,164.54,2024-02-14,822.7
+CUST100,Female,60,Central,Sports & Outdoors,6,87.09,2024-08-02,522.54
+CUST005,Female,58,Central,Electronics,4,1071.38,2024-02-09,4285.52
+CUST060,Male,24,West,Electronics,2,1076.18,2024-11-11,2152.36
+CUST048,Male,67,West,Books,5,11.87,2024-01-23,59.35
+CUST046,Female,55,East,Books,2,21.04,2024-11-17,42.08
+CUST022,Female,65,South,Books,2,25.74,2024-12-19,51.48
+CUST062,Female,66,East,Health & Beauty,2,60.35,2024-12-19,120.7
+CUST065,Male,39,North,Books,1,28.11,2024-04-22,28.11
+CUST053,Female,26,East,Electronics,5,422.57,2024-06-17,2112.85
+CUST058,Female,20,North,Sports & Outdoors,3,147.6,2024-09-23,442.8
+CUST039,Male,40,East,Electronics,5,1158.05,2024-12-20,5790.25
+CUST013,Male,52,West,Sports & Outdoors,3,123.63,2024-02-14,370.89
+CUST054,Female,39,East,Clothing,5,65.05,2024-11-24,325.25
+CUST080,Male,70,West,Electronics,5,550.59,2024-04-16,2752.95
+CUST056,Male,59,South,Books,2,29.74,2024-06-22,59.48
+CUST082,Male,29,South,Books,3,27.4,2024-11-21,82.2
+CUST056,Female,67,Central,Sports & Outdoors,6,111.14,2024-07-05,666.84
+CUST038,Female,61,East,Home & Kitchen,3,127.26,2024-09-20,381.78
+CUST084,Female,47,Central,Health & Beauty,3,46.88,2024-01-01,140.64
+CUST022,Female,62,East,Electronics,5,472.21,2024-11-06,2361.05
+CUST086,Female,48,South,Health & Beauty,3,30.12,2024-09-28,90.36
+CUST010,Female,58,North,Electronics,5,575.05,2024-08-28,2875.25
+CUST073,Male,29,Central,Clothing,6,62.12,2024-08-28,372.72
+CUST027,Male,69,Central,Clothing,1,20.05,2024-03-03,20.05
+CUST051,Male,26,South,Sports & Outdoors,2,185.63,2024-08-11,371.26
+CUST094,Female,22,South,Health & Beauty,4,28.1,2024-04-11,112.4
+CUST059,Female,63,North,Books,1,10.87,2024-05-02,10.87
+CUST027,Male,67,Central,Home & Kitchen,3,229.23,2024-09-08,687.69
+CUST065,Female,47,South,Electronics,6,1135.02,2024-09-21,6810.12
+CUST080,Female,20,South,Electronics,2,1075.43,2024-07-13,2150.86
+CUST078,Female,36,North,Sports & Outdoors,6,81.63,2024-04-03,489.78
+CUST012,Female,30,North,Home & Kitchen,2,55.48,2024-08-15,110.96
+CUST028,Female,20,West,Health & Beauty,2,53.13,2024-10-15,106.26
+CUST041,Male,68,East,Health & Beauty,2,74.62,2024-02-28,149.24
+CUST016,Female,30,West,Sports & Outdoors,6,160.51,2024-08-15,963.06
+CUST021,Female,20,North,Electronics,3,1077.18,2024-06-04,3231.54
+CUST036,Female,38,South,Clothing,2,88.85,2024-08-24,177.7
+CUST065,Female,37,North,Home & Kitchen,6,290.14,2024-11-01,1740.84
+CUST025,Female,50,Central,Electronics,4,698.87,2024-02-13,2795.48
+CUST027,Male,43,South,Clothing,4,95.35,2024-07-02,381.4
+CUST055,Female,70,West,Health & Beauty,2,40.71,2024-09-18,81.42
+CUST010,Male,52,West,Clothing,5,28.08,2024-01-27,140.4
+CUST048,Male,48,West,Sports & Outdoors,6,77.81,2024-02-26,466.86
+CUST001,Male,34,South,Books,3,,2024-10-20,
+CUST061,Male,20,East,Electronics,6,526.0,2024-11-10,3156.0
+CUST061,Female,66,East,Home & Kitchen,4,287.17,2024-09-18,1148.68
+CUST023,Male,59,East,Clothing,4,83.35,2024-04-21,333.4
+CUST060,Female,30,North,Health & Beauty,4,77.44,2024-11-15,309.76
+CUST011,Male,36,North,Clothing,1,71.93,2024-06-12,71.93
+CUST019,Male,40,Central,Health & Beauty,6,26.32,2024-01-27,157.92
+CUST088,Female,67,South,Books,1,29.31,2024-04-28,29.31
+CUST043,Male,21,Central,Sports & Outdoors,4,146.37,2024-08-11,585.48
+CUST004,Female,59,North,Health & Beauty,5,,2024-09-25,
+CUST094,Female,39,South,Home & Kitchen,6,246.75,2024-10-20,1480.5
+CUST098,Female,35,West,Books,3,12.91,2024-08-23,38.73
+CUST097,Male,25,South,Sports & Outdoors,6,128.07,2024-11-12,768.42
+CUST094,Female,69,North,Clothing,3,34.03,2024-12-15,102.09
+CUST007,Female,41,West,Sports & Outdoors,4,78.69,2024-02-04,314.76
+CUST070,Female,45,West,Sports & Outdoors,4,145.49,2024-11-08,581.96
+CUST016,Male,43,South,Electronics,3,501.88,2024-01-11,1505.64
+CUST097,Male,65,East,Health & Beauty,5,62.37,2024-06-27,311.85
+CUST043,Male,46,North,Sports & Outdoors,1,191.04,2024-11-26,191.04
+CUST024,Female,42,North,Home & Kitchen,6,287.17,2024-05-18,1723.02
+CUST047,Male,39,East,Electronics,1,713.28,2024-09-12,713.28
+CUST020,Male,29,Central,Electronics,6,1195.43,2024-12-04,7172.58
+CUST017,Female,49,Central,Books,4,29.23,2024-01-06,116.92
+CUST073,Female,62,North,Clothing,6,22.59,2024-08-05,135.54
+CUST014,Male,49,East,Electronics,6,881.91,2024-12-24,5291.46
+CUST079,Female,41,East,Home & Kitchen,6,280.26,2024-12-14,1681.56
+CUST016,Male,69,West,Health & Beauty,3,77.89,2024-02-09,233.67
+CUST066,Female,51,Central,Health & Beauty,1,29.36,2024-10-07,29.36
+CUST013,Male,35,Central,Health & Beauty,5,,2024-04-04,
+CUST085,Female,69,West,Books,4,,2024-07-07,
+CUST044,Male,23,South,Home & Kitchen,2,85.16,2024-08-27,170.32
+CUST040,Male,64,Central,Electronics,4,996.27,2024-04-23,3985.08
+CUST053,Female,45,West,Sports & Outdoors,2,66.65,2024-06-04,133.3
+CUST088,Female,23,East,Home & Kitchen,4,295.59,2024-07-02,1182.36
+CUST081,Female,45,South,Books,3,11.69,2024-11-27,35.07
+CUST015,Female,56,North,Books,3,27.48,2024-11-19,82.44
+CUST031,Male,70,East,Clothing,3,27.1,2024-02-25,81.3
+CUST054,Male,29,South,Home & Kitchen,3,,2024-08-15,
+CUST055,Male,52,West,Health & Beauty,5,56.54,2024-11-19,282.7
+CUST016,Female,36,East,Books,5,27.51,2024-09-05,137.55
+CUST032,Male,38,South,Books,2,17.83,2024-08-01,35.66
+CUST094,Male,24,North,Clothing,5,41.22,2024-09-24,206.1
+CUST038,Male,23,East,Sports & Outdoors,4,68.67,2024-01-18,274.68
+CUST047,Male,38,East,Health & Beauty,3,19.41,2024-07-27,58.23
+CUST020,Male,60,Central,Sports & Outdoors,6,69.92,2024-10-16,419.52
+CUST092,Female,36,South,Books,1,10.38,2024-09-25,10.38
+CUST028,Female,37,South,Electronics,1,401.02,2024-03-23,401.02
+CUST027,Female,46,Central,Health & Beauty,1,40.09,2024-10-06,40.09
+CUST057,Female,56,West,Home & Kitchen,6,233.15,2024-12-27,1398.9
+CUST004,Male,63,West,Clothing,4,97.53,2024-03-04,390.12
+CUST043,Female,45,Central,Sports & Outdoors,1,179.8,2024-07-22,179.8
+CUST007,Female,28,East,Electronics,1,794.47,2024-10-20,794.47
+CUST075,Female,62,North,Electronics,2,702.97,2024-06-17,1405.94
+CUST011,Male,46,West,Home & Kitchen,4,186.51,2024-07-14,746.04
+CUST040,Male,40,North,Clothing,4,28.11,2024-10-23,112.44
+CUST084,Male,46,South,Books,1,18.55,2024-04-09,18.55
+CUST087,Male,20,South,Sports & Outdoors,4,176.21,2024-07-11,704.84
+CUST088,Male,64,West,Sports & Outdoors,2,,2024-05-15,
+CUST068,Male,40,East,Clothing,6,74.97,2024-03-05,449.82
+CUST032,Female,57,South,Sports & Outdoors,2,53.46,2024-07-20,106.92
+CUST010,Female,45,North,Books,6,,2024-12-24,
+CUST077,Female,35,East,Home & Kitchen,3,261.44,2024-09-10,784.32
+CUST044,Female,58,West,Home & Kitchen,2,123.73,2024-12-18,247.46
+CUST027,Female,68,South,Electronics,3,654.97,2024-06-23,1964.91
+CUST046,Female,21,West,Electronics,1,1161.33,2024-12-18,1161.33
+CUST007,Female,22,East,Electronics,6,459.36,2024-11-07,2756.16
+CUST033,Male,60,East,Home & Kitchen,3,92.53,2024-04-07,277.59
+CUST003,Male,58,East,Books,3,16.26,2024-10-23,48.78
+CUST088,Female,43,Central,Home & Kitchen,1,233.0,2024-05-22,233.0
+CUST079,Female,41,Central,Home & Kitchen,3,186.76,2024-06-22,560.28
+CUST100,Male,50,North,Electronics,6,1118.5,2024-03-23,6711.0
+CUST001,Female,69,East,Clothing,6,27.45,2024-11-06,164.7
+CUST081,Female,65,East,Electronics,2,875.22,2024-09-18,1750.44
+CUST078,Female,61,South,Clothing,1,69.09,2024-12-21,69.09
+CUST071,Male,28,North,Books,4,,2024-06-23,
+CUST042,Male,19,North,Books,6,8.68,2024-02-25,52.08
+CUST010,Female,27,West,Health & Beauty,3,76.26,2024-06-18,228.78
+CUST069,Male,56,East,Health & Beauty,6,25.72,2024-08-19,154.32
+CUST043,Male,61,South,Health & Beauty,6,72.83,2024-10-22,436.98
+CUST058,Male,68,West,Books,2,11.46,2024-12-14,22.92
+CUST062,Female,46,Central,Electronics,4,481.01,2024-11-24,1924.04
+CUST011,Male,20,East,Electronics,6,564.44,2024-09-10,3386.64
+CUST071,Male,26,North,Electronics,1,551.99,2024-07-26,551.99
+CUST040,Female,22,East,Home & Kitchen,6,224.3,2024-01-17,1345.8
+CUST033,Female,33,East,Health & Beauty,1,61.93,2024-02-01,61.93
+CUST071,Female,67,Central,Electronics,1,983.98,2024-07-05,983.98
+CUST035,Male,59,South,Health & Beauty,2,32.24,2024-01-22,64.48
+CUST097,Male,41,South,Health & Beauty,4,33.3,2024-01-07,133.2
+CUST021,Female,41,South,Home & Kitchen,1,109.39,2024-05-25,109.39
+CUST024,Female,42,West,Books,2,9.09,2024-03-10,18.18
+CUST098,Male,54,South,Electronics,5,857.42,2024-11-09,4287.1
+CUST064,Male,20,West,Home & Kitchen,2,259.96,2024-03-27,519.92
+CUST005,Female,56,Central,Books,5,11.38,2024-01-23,56.9
+CUST051,Male,27,East,Books,6,15.94,2024-05-07,95.64
+CUST010,Female,61,West,Electronics,4,742.08,2024-09-02,2968.32
+CUST044,Male,46,Central,Sports & Outdoors,1,76.55,2024-06-27,76.55
+CUST054,Female,41,West,Health & Beauty,1,,2024-08-04,
+CUST031,Male,41,Central,Clothing,6,68.02,2024-10-28,408.12
+CUST031,Female,46,South,Health & Beauty,3,27.98,2024-11-24,83.94
+CUST072,Male,66,South,Health & Beauty,1,16.67,2024-09-28,16.67
+CUST082,Female,22,Central,Clothing,4,33.67,2024-04-24,134.68
+CUST088,Male,54,North,Sports & Outdoors,6,76.07,2024-11-18,456.42
+CUST073,Female,26,Central,Books,2,,2024-07-08,
+CUST074,Female,51,West,Clothing,4,87.5,2024-09-26,350.0
+CUST061,Female,41,Central,Clothing,1,44.67,2024-12-10,44.67
+CUST024,Female,43,East,Home & Kitchen,2,,2024-12-22,
+CUST066,Female,38,North,Home & Kitchen,4,172.27,2024-01-13,689.08
+CUST063,Male,59,Central,Home & Kitchen,1,215.26,2024-07-14,215.26
+CUST043,Female,35,North,Books,6,10.01,2024-11-11,60.06
+CUST002,Male,33,North,Clothing,1,63.53,2024-09-02,63.53
+CUST085,Female,25,Central,Electronics,1,547.9,2024-01-24,547.9
+CUST056,Male,19,Central,Clothing,3,90.84,2024-05-07,272.52
+CUST049,Female,65,South,Books,3,16.13,2024-10-28,48.39
+CUST087,Female,29,Central,Home & Kitchen,3,161.44,2024-08-27,484.32
+CUST058,Male,49,Central,Books,2,13.79,2024-04-21,27.58
+CUST059,Female,51,South,Home & Kitchen,4,166.26,2024-12-23,665.04
+CUST028,Male,42,South,Books,2,12.98,2024-11-12,25.96
+CUST090,Male,53,East,Electronics,6,614.85,2024-10-18,3689.1
+CUST069,Female,25,Central,Home & Kitchen,6,65.41,2024-12-20,392.46
+CUST067,Female,34,West,Home & Kitchen,2,238.06,2024-04-25,476.12
+CUST063,Male,67,North,Clothing,1,,2024-12-07,
+CUST088,Female,34,South,Sports & Outdoors,5,40.0,2024-05-15,200.0
+CUST010,Female,63,Central,Sports & Outdoors,5,85.16,2024-03-22,425.8
+CUST034,Female,46,West,Books,1,19.91,2024-02-06,19.91
+CUST026,Male,31,North,Health & Beauty,5,78.1,2024-03-24,390.5
+CUST077,Female,57,Central,Health & Beauty,6,53.33,2024-09-04,319.98
+CUST008,Male,36,West,Clothing,2,64.29,2024-07-02,128.58
+CUST093,Male,62,North,Books,4,,2024-07-09,
+CUST022,Male,49,West,Electronics,3,1054.72,2024-09-09,3164.16
+CUST091,Male,30,South,Clothing,6,53.49,2024-03-06,320.94
+CUST003,Female,25,Central,Home & Kitchen,2,183.88,2024-10-28,367.76
+CUST064,Female,26,West,Electronics,6,1093.52,2024-05-01,6561.12
+CUST008,Male,22,West,Books,6,18.45,2024-06-15,110.7
+CUST055,Male,46,Central,Home & Kitchen,2,270.41,2024-12-05,540.82
+CUST037,Male,29,North,Health & Beauty,4,45.96,2024-01-05,183.84
+CUST075,Male,63,Central,Books,5,9.74,2024-06-20,48.7
+CUST080,Female,46,West,Home & Kitchen,6,275.69,2024-01-25,1654.14
+CUST031,Male,23,East,Books,4,23.71,2024-11-20,94.84
+CUST027,Male,69,North,Home & Kitchen,2,175.53,2024-11-10,351.06
+CUST003,Male,61,West,Books,1,27.81,2024-08-26,27.81
+CUST008,Male,38,East,Sports & Outdoors,1,165.08,2024-10-18,165.08
+CUST012,Male,60,North,Health & Beauty,2,59.04,2024-06-03,118.08
+CUST030,Female,40,South,Clothing,1,69.62,2024-12-11,69.62
+CUST096,Female,63,Central,Home & Kitchen,5,80.07,2024-09-08,400.35
+CUST027,Female,22,North,Home & Kitchen,6,239.3,2024-03-17,1435.8
+CUST052,Female,53,North,Health & Beauty,4,26.24,2024-02-26,104.96
+CUST100,Female,52,West,Sports & Outdoors,3,197.26,2024-09-06,591.78
+CUST008,Male,36,East,Clothing,4,97.77,2024-07-18,391.08
+CUST099,Female,37,North,Books,3,25.79,2024-09-13,77.37
+CUST100,Male,28,Central,Home & Kitchen,2,81.55,2024-02-12,163.1
+CUST045,Female,63,North,Clothing,2,53.87,2024-04-07,107.74
+CUST055,Female,63,North,Books,3,29.74,2024-11-11,89.22
+CUST012,Female,62,West,Home & Kitchen,6,158.85,2024-06-12,953.1
+CUST051,Female,58,North,Home & Kitchen,1,299.32,2024-05-07,299.32
+CUST095,Male,29,East,Sports & Outdoors,2,134.76,2024-10-17,269.52
+CUST038,Female,68,West,Sports & Outdoors,5,170.97,2024-08-18,854.85
+CUST027,Male,41,South,Sports & Outdoors,5,70.13,2024-11-01,350.65
+CUST086,Female,50,South,Books,5,28.04,2024-02-22,140.2
+CUST046,Female,32,West,Health & Beauty,6,74.42,2024-06-15,446.52
+CUST088,Female,25,East,Clothing,5,,2024-04-21,
+CUST034,Male,30,West,Home & Kitchen,3,147.02,2024-10-20,441.06
+CUST024,Male,68,West,Books,6,16.74,2024-04-02,100.44
+CUST013,Female,26,West,Home & Kitchen,1,131.53,2024-11-11,131.53
+CUST076,Female,33,West,Books,6,14.08,2024-07-26,84.48
+CUST003,Male,68,North,Home & Kitchen,3,164.54,2024-02-13,493.62
+CUST025,Male,49,Central,Electronics,2,1098.77,2024-05-18,2197.54
+CUST055,Female,19,South,Health & Beauty,5,66.13,2024-12-10,330.65
+CUST017,Female,41,East,Clothing,5,69.84,2024-01-17,349.2
+CUST021,Male,53,North,Health & Beauty,5,48.97,2024-06-17,244.85
+CUST081,Female,54,South,Health & Beauty,2,42.27,2024-09-15,84.54
+CUST049,Male,41,Central,Clothing,6,53.16,2024-08-02,318.96
+CUST043,Female,47,West,Sports & Outdoors,4,50.93,2024-05-21,203.72
+CUST093,Female,69,Central,Health & Beauty,3,53.22,2024-04-11,159.66
+CUST048,Male,53,South,Electronics,6,1006.7,2024-09-03,6040.2
+CUST095,Male,26,South,Sports & Outdoors,1,189.44,2024-02-06,189.44
+CUST072,Female,57,North,Books,2,28.35,2024-09-18,56.7
+CUST006,Male,23,North,Sports & Outdoors,4,123.47,2024-01-21,493.88
+CUST062,Female,22,East,Clothing,4,,2024-02-07,
+CUST016,Female,36,East,Books,5,27.51,2024-09-05,137.55
+CUST059,Male,41,West,Sports & Outdoors,3,88.02,2024-10-26,264.06
+CUST075,Female,62,North,Electronics,2,702.97,2024-06-17,1405.94
+CUST030,Female,48,North,Home & Kitchen,5,68.71,2024-01-15,343.55
+CUST023,Male,28,East,Home & Kitchen,3,251.08,2024-11-05,753.24
+CUST081,Female,65,East,Electronics,2,875.22,2024-09-18,1750.44
+CUST084,Male,46,South,Books,1,18.55,2024-04-09,18.55
+CUST002,Female,68,Central,Sports & Outdoors,6,158.08,2024-05-24,948.48
+CUST082,Female,23,East,Books,6,9.41,2024-11-14,56.46
+CUST022,Male,49,West,Electronics,3,1054.72,2024-09-09,3164.16

@@ -656,6 +656,22 @@ This project is licensed under the MIT License.
         </span>
       </td>
     </tr>
+    <tr style="background:#222;color:#fff;">
+      <td style="padding:10px 8px;border:2px solid #fff;">18.4</td>
+      <td style="padding:10px 8px;border:2px solid #fff;">
+        <ul style="margin:0;padding-left:18px;">
+          <li><span style="color:#d32f2f;">Live Project</span></li>
+        </ul>
+        <span style="color:#fff;background:#7b1fa2;padding:2px 6px;border-radius:4px;"><a style="color:#fff;text-decoration:none;" href="./Lab Work/ch_9/lec_9.4/">Lab Work</a></span>
+        <span style="color:#fff;background:#43a047;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Self Exercises/ch_9/lec_9.4/">Self Exercises</a></span>
+        <span style="color:#fff;background:#3b10a2;padding:2px 6px;border-radius:4px;margin-left:8px;"><a style="color:#fff;text-decoration:none;" href="./Project/Live Project - 1/">Live Project - 1</a></span>
+        <br>
+        <span style="color:#fff;font-weight:bold;display:inline-block;margin-top:8px;margin-left:8px;">
+          <img src="https://img.icons8.com/ios-filled/16/ffffff/settings.png" style="vertical-align:middle;margin-right:4px;">
+          PR. 9 Visualizer
+        </span>
+      </td>
+    </tr>
   </tbody>
   </table>
 <hr style="background:transparent;">

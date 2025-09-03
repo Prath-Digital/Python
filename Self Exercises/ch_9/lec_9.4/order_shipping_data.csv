@@ -1,0 +1,508 @@
+Order_ID,Customer_ID,Product,Category,Order_Quantity,Price,Return_Status,Shipping_Method,Order_date,Total_Price
+ORD00001,CUST0029,Tablet,Electronics,3,568.05,Not Returned,Standard,2024-02-22,1704.15
+ORD00002,CUST0007,Smart Home Hub,Smart Home,5,,Not Returned,Express,2024-03-11,
+ORD00003,CUST0071,Laptop Pro,Electronics,2,893.72,Not Returned,Standard,2024-02-08,1787.44
+ORD00004,CUST0063,Webcam HD,Accessories,4,80.78,Returned,Express,2024-05-04,323.12
+ORD00005,CUST0058,Fitness Tracker,Wearables,1,59.26,Returned,Next Day,2024-03-12,59.26
+ORD00006,CUST0036,Portable Monitor,Computer,5,314.29,Not Returned,Next Day,2024-12-05,1571.45
+ORD00007,CUST0027,Fitness Tracker,Wearables,2,125.82,Returned,Free Shipping,2024-09-13,251.64
+ORD00008,CUST0140,Webcam HD,Accessories,2,81.54,Not Returned,International,2024-07-20,163.08
+ORD00009,CUST0023,Wireless Headphones,Electronics,3,87.46,Not Returned,Standard,2024-03-19,262.38
+ORD00010,CUST0109,Fitness Tracker,Wearables,2,99.22,Not Returned,International,2024-07-14,198.44
+ORD00011,CUST0009,USB-C Hub,Accessories,1,51.22,Not Returned,Express,2024-03-16,51.22
+ORD00012,CUST0008,Bluetooth Speaker,Audio,1,43.95,Not Returned,Free Shipping,2024-11-18,43.95
+ORD00013,CUST0024,Smart Watch,Electronics,2,221.89,Not Returned,Next Day,2024-12-21,443.78
+ORD00014,CUST0056,Fitness Tracker,Wearables,3,,Not Returned,Next Day,2024-03-18,
+ORD00015,CUST0060,Smart Home Hub,Smart Home,5,95.46,Returned,Free Shipping,2024-03-16,477.3
+ORD00016,CUST0130,External SSD,Storage,5,243.32,Not Returned,Standard,2024-05-05,1216.6
+ORD00017,CUST0007,Wireless Charger,Accessories,3,85.65,Not Returned,International,2024-03-11,256.95
+ORD00018,CUST0144,Laptop Pro,Electronics,4,1344.12,Not Returned,Express,2024-08-20,5376.48
+ORD00019,CUST0051,External SSD,Storage,1,244.24,Not Returned,International,2024-01-28,244.24
+ORD00020,CUST0140,Bluetooth Speaker,Audio,4,84.82,Not Returned,Next Day,2024-06-01,339.28
+ORD00021,CUST0108,Webcam HD,Accessories,3,35.2,Not Returned,Free Shipping,2024-08-05,105.6
+ORD00022,CUST0057,Portable Monitor,Computer,4,288.71,Not Returned,Next Day,2024-04-27,1154.84
+ORD00023,CUST0115,Wireless Headphones,Electronics,3,251.73,Not Returned,Next Day,2024-07-18,755.19
+ORD00024,CUST0072,Wireless Charger,Accessories,5,79.25,Not Returned,Express,2024-09-21,396.25
+ORD00025,CUST0002,Smart Watch,Electronics,5,288.58,Returned,Standard,2024-08-14,1442.9
+ORD00026,CUST0041,Fitness Tracker,Wearables,4,172.47,Not Returned,Standard,2024-11-16,689.88
+ORD00027,CUST0109,Wireless Charger,Accessories,4,80.94,Not Returned,Express,2024-07-23,323.76
+ORD00028,CUST0088,Tablet,Electronics,1,,Not Returned,Free Shipping,2024-08-16,
+ORD00029,CUST0072,External SSD,Storage,5,94.49,Not Returned,International,2024-03-03,472.45
+ORD00030,CUST0040,External SSD,Storage,1,190.25,Not Returned,Free Shipping,2024-10-01,190.25
+ORD00031,CUST0056,Noise Cancelling Earbuds,Audio,4,115.94,Returned,International,2024-04-10,463.76
+ORD00032,CUST0087,Mechanical Keyboard,Computer,3,199.18,Returned,Standard,2024-01-09,597.54
+ORD00033,CUST0027,Fitness Tracker,Wearables,5,190.19,Not Returned,Next Day,2024-04-18,950.95
+ORD00034,CUST0024,Webcam HD,Accessories,3,36.21,Not Returned,Next Day,2024-05-06,108.63
+ORD00035,CUST0098,Wireless Charger,Accessories,1,95.03,Not Returned,Free Shipping,2024-08-19,95.03
+ORD00036,CUST0025,Noise Cancelling Earbuds,Audio,1,107.93,Returned,Express,2024-12-25,107.93
+ORD00037,CUST0092,Portable Monitor,Computer,2,272.66,Not Returned,International,2024-08-18,545.32
+ORD00038,CUST0089,Smart Home Hub,Smart Home,5,210.73,Not Returned,Next Day,2024-09-04,1053.65
+ORD00039,CUST0068,Webcam HD,Accessories,5,98.92,Not Returned,Free Shipping,2024-10-04,494.6
+ORD00040,CUST0012,External SSD,Storage,1,393.07,Returned,Express,2024-05-25,393.07
+ORD00041,CUST0118,USB-C Hub,Accessories,3,58.75,Not Returned,Standard,2024-09-27,176.25
+ORD00042,CUST0138,Portable Monitor,Computer,5,276.11,Not Returned,Express,2024-06-18,1380.55
+ORD00043,CUST0032,Webcam HD,Accessories,1,119.36,Not Returned,Standard,2024-01-25,119.36
+ORD00044,CUST0097,External SSD,Storage,2,202.39,Not Returned,Free Shipping,2024-12-15,404.78
+ORD00045,CUST0021,Wireless Charger,Accessories,4,,Returned,Express,2024-09-07,
+ORD00046,CUST0142,Webcam HD,Accessories,5,111.61,Not Returned,Free Shipping,2024-07-04,558.05
+ORD00047,CUST0076,Smart Watch,Electronics,4,281.48,Not Returned,Standard,2024-12-27,1125.92
+ORD00048,CUST0093,Smart Home Hub,Smart Home,3,196.06,Not Returned,Next Day,2024-11-25,588.18
+ORD00049,CUST0148,Portable Monitor,Computer,2,348.54,Not Returned,Next Day,2024-04-10,697.08
+ORD00050,CUST0050,Wireless Charger,Accessories,5,,Not Returned,Standard,2024-01-15,
+ORD00051,CUST0018,Wireless Charger,Accessories,4,74.02,Not Returned,International,2024-05-12,296.08
+ORD00052,CUST0012,Gaming Mouse,Computer,4,67.82,Not Returned,International,2024-02-15,271.28
+ORD00053,CUST0059,Fitness Tracker,Wearables,1,76.77,Returned,Next Day,2024-02-25,76.77
+ORD00054,CUST0075,Bluetooth Speaker,Audio,4,94.47,Returned,Next Day,2024-04-07,377.88
+ORD00055,CUST0021,Portable Monitor,Computer,3,308.65,Not Returned,Express,2024-12-19,925.95
+ORD00056,CUST0060,Tablet,Electronics,4,736.71,Not Returned,Express,2024-12-12,2946.84
+ORD00057,CUST0026,Gaming Mouse,Computer,3,57.82,Not Returned,Next Day,2024-12-20,173.46
+ORD00058,CUST0098,Fitness Tracker,Wearables,3,50.52,Not Returned,International,2024-11-14,151.56
+ORD00059,CUST0072,Fitness Tracker,Wearables,1,53.41,Not Returned,Express,2024-03-20,53.41
+ORD00060,CUST0117,External SSD,Storage,2,175.48,Not Returned,Standard,2024-03-26,350.96
+ORD00061,CUST0094,Wireless Charger,Accessories,3,75.51,Not Returned,Express,2024-04-27,226.53
+ORD00062,CUST0042,Tablet,Electronics,4,626.67,Not Returned,Express,2024-04-26,2506.68
+ORD00063,CUST0095,Bluetooth Speaker,Audio,4,93.83,Not Returned,Express,2024-01-19,375.32
+ORD00064,CUST0091,Gaming Mouse,Computer,3,105.87,Not Returned,Free Shipping,2024-06-18,317.61
+ORD00065,CUST0054,Wireless Charger,Accessories,4,43.56,Not Returned,Standard,2024-05-20,174.24
+ORD00066,CUST0069,Wireless Headphones,Electronics,5,136.54,Returned,Next Day,2024-09-06,682.7
+ORD00067,CUST0019,Smart Home Hub,Smart Home,1,126.86,Not Returned,International,2024-06-23,126.86
+ORD00068,CUST0044,Gaming Mouse,Computer,4,114.99,Not Returned,International,2024-05-10,459.96
+ORD00069,CUST0137,Bluetooth Speaker,Audio,1,117.0,Not Returned,Next Day,2024-10-09,117.0
+ORD00070,CUST0063,Gaming Mouse,Computer,3,49.03,Not Returned,Free Shipping,2024-09-22,147.09
+ORD00071,CUST0042,Mechanical Keyboard,Computer,3,173.33,Not Returned,International,2024-02-05,519.99
+ORD00072,CUST0119,Mechanical Keyboard,Computer,3,118.69,Not Returned,Express,2024-07-02,356.07
+ORD00073,CUST0098,Webcam HD,Accessories,1,98.94,Not Returned,International,2024-05-28,98.94
+ORD00074,CUST0070,External SSD,Storage,4,362.8,Not Returned,Standard,2024-11-05,1451.2
+ORD00075,CUST0143,Wireless Headphones,Electronics,5,53.91,Not Returned,Standard,2024-12-28,269.55
+ORD00076,CUST0057,Smart Watch,Electronics,1,222.13,Not Returned,Next Day,2024-03-08,222.13
+ORD00077,CUST0084,Smart Watch,Electronics,5,185.31,Not Returned,Free Shipping,2024-03-23,926.55
+ORD00078,CUST0015,Bluetooth Speaker,Audio,4,34.03,Returned,Free Shipping,2024-06-27,136.12
+ORD00079,CUST0059,USB-C Hub,Accessories,4,,Not Returned,International,2024-04-25,
+ORD00080,CUST0009,Smart Home Hub,Smart Home,1,199.56,Not Returned,Free Shipping,2024-11-13,199.56
+ORD00081,CUST0081,Smart Watch,Electronics,2,167.04,Not Returned,Free Shipping,2024-08-05,334.08
+ORD00082,CUST0103,Smart Home Hub,Smart Home,5,205.89,Not Returned,International,2024-10-21,1029.45
+ORD00083,CUST0069,Bluetooth Speaker,Audio,3,78.27,Returned,Standard,2024-05-21,234.81
+ORD00084,CUST0017,Wireless Headphones,Electronics,5,108.58,Not Returned,Express,2024-07-13,542.9
+ORD00085,CUST0055,USB-C Hub,Accessories,4,33.04,Returned,Next Day,2024-08-03,132.16
+ORD00086,CUST0146,USB-C Hub,Accessories,4,71.82,Returned,Standard,2024-11-26,287.28
+ORD00087,CUST0081,Mechanical Keyboard,Computer,1,67.9,Not Returned,Free Shipping,2024-02-13,67.9
+ORD00088,CUST0055,External SSD,Storage,2,,Not Returned,Free Shipping,2024-09-24,
+ORD00089,CUST0128,Wireless Charger,Accessories,3,46.69,Not Returned,International,2024-05-23,140.07
+ORD00090,CUST0102,USB-C Hub,Accessories,5,68.95,Not Returned,Next Day,2024-06-15,344.75
+ORD00091,CUST0118,Laptop Pro,Electronics,2,1677.82,Not Returned,Express,2024-08-11,3355.64
+ORD00092,CUST0037,Bluetooth Speaker,Audio,3,68.27,Not Returned,International,2024-10-01,204.81
+ORD00093,CUST0068,Portable Monitor,Computer,4,329.38,Not Returned,International,2024-12-03,1317.52
+ORD00094,CUST0036,USB-C Hub,Accessories,4,60.35,Returned,Express,2024-12-15,241.4
+ORD00095,CUST0064,USB-C Hub,Accessories,1,39.24,Returned,Express,2024-11-22,39.24
+ORD00096,CUST0144,Webcam HD,Accessories,1,57.16,Not Returned,Free Shipping,2024-12-12,57.16
+ORD00097,CUST0138,Fitness Tracker,Wearables,5,71.49,Not Returned,International,2024-02-26,357.45
+ORD00098,CUST0068,Noise Cancelling Earbuds,Audio,2,265.05,Returned,Standard,2024-09-13,530.1
+ORD00099,CUST0150,Smart Home Hub,Smart Home,2,117.58,Not Returned,Standard,2024-04-14,235.16
+ORD00100,CUST0110,Laptop Pro,Electronics,3,1160.6,Not Returned,International,2024-04-16,3481.8
+ORD00101,CUST0150,Portable Monitor,Computer,5,168.29,Not Returned,Express,2024-05-11,841.45
+ORD00102,CUST0103,Webcam HD,Accessories,1,115.37,Not Returned,Next Day,2024-05-11,115.37
+ORD00103,CUST0093,Fitness Tracker,Wearables,5,,Not Returned,Express,2024-09-19,
+ORD00104,CUST0057,Noise Cancelling Earbuds,Audio,4,327.89,Not Returned,Express,2024-03-19,1311.56
+ORD00105,CUST0036,USB-C Hub,Accessories,1,57.56,Not Returned,Next Day,2024-08-26,57.56
+ORD00106,CUST0131,Wireless Charger,Accessories,2,,Not Returned,Express,2024-06-22,
+ORD00107,CUST0127,Laptop Pro,Electronics,1,1394.74,Not Returned,Next Day,2024-01-02,1394.74
+ORD00108,CUST0024,Mechanical Keyboard,Computer,4,196.12,Not Returned,International,2024-02-21,784.48
+ORD00109,CUST0013,Gaming Mouse,Computer,1,115.33,Not Returned,Next Day,2024-08-01,115.33
+ORD00110,CUST0029,Fitness Tracker,Wearables,2,150.7,Not Returned,Standard,2024-02-28,301.4
+ORD00111,CUST0040,USB-C Hub,Accessories,4,67.15,Not Returned,Next Day,2024-03-15,268.6
+ORD00112,CUST0041,Portable Monitor,Computer,3,245.62,Not Returned,Express,2024-08-01,736.86
+ORD00113,CUST0109,Webcam HD,Accessories,5,67.47,Not Returned,International,2024-07-07,337.35
+ORD00114,CUST0017,Portable Monitor,Computer,3,194.77,Not Returned,Next Day,2024-12-05,584.31
+ORD00115,CUST0099,USB-C Hub,Accessories,4,42.59,Not Returned,Express,2024-11-10,170.36
+ORD00116,CUST0098,External SSD,Storage,4,321.41,Not Returned,Next Day,2024-03-28,1285.64
+ORD00117,CUST0120,Smart Home Hub,Smart Home,4,160.5,Not Returned,International,2024-05-03,642.0
+ORD00118,CUST0136,Smart Home Hub,Smart Home,2,224.39,Not Returned,International,2024-11-12,448.78
+ORD00119,CUST0065,External SSD,Storage,4,176.24,Not Returned,Standard,2024-05-03,704.96
+ORD00120,CUST0142,Fitness Tracker,Wearables,5,156.14,Returned,International,2024-06-22,780.7
+ORD00121,CUST0003,Noise Cancelling Earbuds,Audio,2,301.44,Not Returned,Express,2024-11-06,602.88
+ORD00122,CUST0030,Webcam HD,Accessories,4,112.33,Not Returned,International,2024-01-13,449.32
+ORD00123,CUST0138,Bluetooth Speaker,Audio,2,97.49,Not Returned,International,2024-11-10,194.98
+ORD00124,CUST0069,Wireless Charger,Accessories,5,97.58,Not Returned,Express,2024-12-23,487.9
+ORD00125,CUST0088,Bluetooth Speaker,Audio,5,96.87,Not Returned,Express,2024-04-14,484.35
+ORD00126,CUST0029,Gaming Mouse,Computer,2,50.73,Not Returned,International,2024-11-03,101.46
+ORD00127,CUST0076,USB-C Hub,Accessories,1,34.57,Returned,International,2024-12-04,34.57
+ORD00128,CUST0112,Wireless Charger,Accessories,3,40.25,Not Returned,Next Day,2024-01-07,120.75
+ORD00129,CUST0041,Laptop Pro,Electronics,4,1576.05,Not Returned,International,2024-08-03,6304.2
+ORD00130,CUST0117,USB-C Hub,Accessories,3,75.33,Not Returned,Standard,2024-03-19,225.99
+ORD00131,CUST0001,Mechanical Keyboard,Computer,5,178.6,Not Returned,Standard,2024-04-17,893.0
+ORD00132,CUST0068,Tablet,Electronics,3,355.48,Not Returned,Standard,2024-11-15,1066.44
+ORD00133,CUST0129,Tablet,Electronics,1,734.75,Not Returned,Standard,2024-01-01,734.75
+ORD00134,CUST0046,Fitness Tracker,Wearables,3,78.57,Not Returned,International,2024-12-11,235.71
+ORD00135,CUST0130,USB-C Hub,Accessories,3,36.11,Not Returned,Next Day,2024-02-28,108.33
+ORD00136,CUST0028,Smart Home Hub,Smart Home,5,194.52,Returned,Express,2024-07-23,972.6
+ORD00137,CUST0077,Smart Watch,Electronics,5,361.02,Not Returned,International,2024-03-16,1805.1
+ORD00138,CUST0130,Portable Monitor,Computer,4,412.09,Returned,Free Shipping,2024-02-08,1648.36
+ORD00139,CUST0051,Wireless Charger,Accessories,2,39.11,Not Returned,International,2024-07-03,78.22
+ORD00140,CUST0040,Webcam HD,Accessories,4,98.55,Not Returned,Standard,2024-12-26,394.2
+ORD00141,CUST0096,Smart Watch,Electronics,5,403.51,Not Returned,Free Shipping,2024-02-04,2017.55
+ORD00142,CUST0042,Noise Cancelling Earbuds,Audio,4,239.71,Not Returned,International,2024-06-12,958.84
+ORD00143,CUST0139,External SSD,Storage,3,233.41,Not Returned,Next Day,2024-05-05,700.23
+ORD00144,CUST0136,Laptop Pro,Electronics,3,1843.37,Returned,Next Day,2024-07-25,5530.11
+ORD00145,CUST0001,Webcam HD,Accessories,5,59.97,Not Returned,Free Shipping,2024-03-21,299.85
+ORD00146,CUST0083,USB-C Hub,Accessories,5,77.42,Not Returned,Express,2024-11-05,387.1
+ORD00147,CUST0126,Noise Cancelling Earbuds,Audio,4,103.83,Returned,Free Shipping,2024-02-17,415.32
+ORD00148,CUST0005,Noise Cancelling Earbuds,Audio,4,334.29,Returned,Next Day,2024-10-01,1337.16
+ORD00149,CUST0029,Tablet,Electronics,3,877.25,Not Returned,Free Shipping,2024-10-21,2631.75
+ORD00150,CUST0093,Laptop Pro,Electronics,2,940.78,Returned,Standard,2024-03-15,1881.56
+ORD00151,CUST0079,Wireless Headphones,Electronics,2,,Not Returned,Standard,2024-06-24,
+ORD00152,CUST0062,Tablet,Electronics,5,587.35,Returned,Express,2024-04-21,2936.75
+ORD00153,CUST0015,USB-C Hub,Accessories,4,34.56,Returned,Free Shipping,2024-12-05,138.24
+ORD00154,CUST0062,Smart Watch,Electronics,2,361.54,Not Returned,Free Shipping,2024-07-20,723.08
+ORD00155,CUST0146,Portable Monitor,Computer,4,211.35,Returned,Free Shipping,2024-11-15,845.4
+ORD00156,CUST0021,Wireless Charger,Accessories,1,93.63,Not Returned,Free Shipping,2024-04-03,93.63
+ORD00157,CUST0022,Smart Watch,Electronics,3,343.23,Returned,Express,2024-02-05,1029.69
+ORD00158,CUST0125,Laptop Pro,Electronics,4,1730.62,Not Returned,Next Day,2024-02-19,6922.48
+ORD00159,CUST0018,Gaming Mouse,Computer,4,70.45,Not Returned,International,2024-12-13,281.8
+ORD00160,CUST0137,USB-C Hub,Accessories,4,52.02,Not Returned,Express,2024-06-14,208.08
+ORD00161,CUST0033,Mechanical Keyboard,Computer,2,110.3,Not Returned,Next Day,2024-06-26,220.6
+ORD00162,CUST0033,Bluetooth Speaker,Audio,4,61.39,Not Returned,Next Day,2024-03-08,245.56
+ORD00163,CUST0122,Wireless Charger,Accessories,1,63.46,Not Returned,Next Day,2024-05-21,63.46
+ORD00164,CUST0141,Mechanical Keyboard,Computer,2,129.62,Not Returned,Free Shipping,2024-02-08,259.24
+ORD00165,CUST0043,Mechanical Keyboard,Computer,5,73.81,Not Returned,Express,2024-09-20,369.05
+ORD00166,CUST0068,Fitness Tracker,Wearables,5,197.2,Not Returned,Next Day,2024-10-24,986.0
+ORD00167,CUST0136,Webcam HD,Accessories,3,72.25,Returned,International,2024-10-10,216.75
+ORD00168,CUST0109,USB-C Hub,Accessories,1,70.38,Not Returned,International,2024-12-01,70.38
+ORD00169,CUST0055,Gaming Mouse,Computer,4,113.15,Not Returned,Standard,2024-11-10,452.6
+ORD00170,CUST0139,Fitness Tracker,Wearables,1,105.61,Not Returned,Next Day,2024-04-17,105.61
+ORD00171,CUST0052,Portable Monitor,Computer,5,274.18,Not Returned,Express,2024-10-17,1370.9
+ORD00172,CUST0080,USB-C Hub,Accessories,4,53.75,Not Returned,Free Shipping,2024-04-24,215.0
+ORD00173,CUST0103,Gaming Mouse,Computer,1,57.7,Not Returned,Standard,2024-07-10,57.7
+ORD00174,CUST0096,Portable Monitor,Computer,2,193.78,Not Returned,Next Day,2024-11-02,387.56
+ORD00175,CUST0113,Wireless Headphones,Electronics,4,115.19,Not Returned,Free Shipping,2024-04-16,460.76
+ORD00176,CUST0133,Wireless Charger,Accessories,2,95.11,Not Returned,Express,2024-07-04,190.22
+ORD00177,CUST0116,Laptop Pro,Electronics,1,1494.97,Not Returned,Express,2024-04-16,1494.97
+ORD00178,CUST0031,Smart Home Hub,Smart Home,4,150.99,Not Returned,Standard,2024-11-20,603.96
+ORD00179,CUST0064,External SSD,Storage,3,128.77,Not Returned,Standard,2024-02-17,386.31
+ORD00180,CUST0058,Laptop Pro,Electronics,3,1195.84,Not Returned,Next Day,2024-01-12,3587.52
+ORD00181,CUST0017,Mechanical Keyboard,Computer,5,113.18,Not Returned,Free Shipping,2024-06-05,565.9
+ORD00182,CUST0087,Bluetooth Speaker,Audio,4,130.0,Not Returned,International,2024-07-28,520.0
+ORD00183,CUST0006,Tablet,Electronics,1,599.58,Not Returned,Free Shipping,2024-10-14,599.58
+ORD00184,CUST0142,Wireless Headphones,Electronics,3,213.65,Not Returned,Express,2024-06-18,640.95
+ORD00185,CUST0059,Fitness Tracker,Wearables,5,,Not Returned,Express,2024-11-06,
+ORD00186,CUST0057,Tablet,Electronics,4,454.4,Not Returned,Next Day,2024-08-25,1817.6
+ORD00187,CUST0002,Laptop Pro,Electronics,3,1785.91,Not Returned,International,2024-02-01,5357.73
+ORD00188,CUST0019,Fitness Tracker,Wearables,4,194.98,Not Returned,Next Day,2024-10-03,779.92
+ORD00189,CUST0016,Laptop Pro,Electronics,5,1570.03,Not Returned,Express,2024-01-09,7850.15
+ORD00190,CUST0059,Bluetooth Speaker,Audio,1,88.87,Not Returned,Express,2024-04-02,88.87
+ORD00191,CUST0018,Bluetooth Speaker,Audio,5,50.19,Not Returned,Free Shipping,2024-01-26,250.95
+ORD00192,CUST0009,Portable Monitor,Computer,1,388.49,Not Returned,International,2024-07-17,388.49
+ORD00193,CUST0085,Laptop Pro,Electronics,2,1003.12,Not Returned,Free Shipping,2024-05-21,2006.24
+ORD00194,CUST0019,Noise Cancelling Earbuds,Audio,3,280.08,Not Returned,Free Shipping,2024-12-17,840.24
+ORD00195,CUST0132,Smart Watch,Electronics,2,320.91,Not Returned,Next Day,2024-07-14,641.82
+ORD00196,CUST0061,Bluetooth Speaker,Audio,1,140.03,Not Returned,Free Shipping,2024-12-13,140.03
+ORD00197,CUST0072,Smart Watch,Electronics,4,339.75,Not Returned,Standard,2024-02-21,1359.0
+ORD00198,CUST0125,Wireless Charger,Accessories,1,73.14,Returned,Standard,2024-09-18,73.14
+ORD00199,CUST0055,Tablet,Electronics,1,335.24,Not Returned,Free Shipping,2024-10-05,335.24
+ORD00200,CUST0139,Wireless Headphones,Electronics,4,58.46,Not Returned,International,2024-05-03,233.84
+ORD00201,CUST0034,Noise Cancelling Earbuds,Audio,2,311.67,Not Returned,Free Shipping,2024-05-03,623.34
+ORD00202,CUST0147,Bluetooth Speaker,Audio,3,143.42,Not Returned,Express,2024-09-07,430.26
+ORD00203,CUST0148,Wireless Charger,Accessories,1,75.12,Returned,Express,2024-03-18,75.12
+ORD00204,CUST0122,Smart Home Hub,Smart Home,1,209.94,Not Returned,International,2024-06-13,209.94
+ORD00205,CUST0063,Gaming Mouse,Computer,3,72.99,Not Returned,Next Day,2024-10-21,218.97
+ORD00206,CUST0122,Fitness Tracker,Wearables,1,176.38,Not Returned,Standard,2024-11-22,176.38
+ORD00207,CUST0105,Mechanical Keyboard,Computer,3,92.4,Not Returned,Standard,2024-11-03,277.2
+ORD00208,CUST0049,Smart Watch,Electronics,3,397.51,Not Returned,Next Day,2024-05-23,1192.53
+ORD00209,CUST0025,Noise Cancelling Earbuds,Audio,3,102.29,Not Returned,Free Shipping,2024-07-24,306.87
+ORD00210,CUST0025,Noise Cancelling Earbuds,Audio,4,226.43,Returned,International,2024-04-02,905.72
+ORD00211,CUST0111,Smart Home Hub,Smart Home,2,143.44,Not Returned,Free Shipping,2024-04-03,286.88
+ORD00212,CUST0091,Smart Home Hub,Smart Home,2,185.03,Returned,Next Day,2024-07-04,370.06
+ORD00213,CUST0109,Wireless Headphones,Electronics,5,216.69,Not Returned,International,2024-08-20,1083.45
+ORD00214,CUST0106,Fitness Tracker,Wearables,4,142.48,Not Returned,Standard,2024-10-02,569.92
+ORD00215,CUST0120,Portable Monitor,Computer,5,294.96,Not Returned,Standard,2024-05-22,1474.8
+ORD00216,CUST0014,Smart Watch,Electronics,2,320.75,Not Returned,Free Shipping,2024-12-22,641.5
+ORD00217,CUST0026,Gaming Mouse,Computer,2,40.53,Not Returned,Express,2024-12-06,81.06
+ORD00218,CUST0016,Wireless Headphones,Electronics,2,187.91,Returned,Next Day,2024-02-01,375.82
+ORD00219,CUST0104,Noise Cancelling Earbuds,Audio,1,,Not Returned,Next Day,2024-12-05,
+ORD00220,CUST0087,Laptop Pro,Electronics,5,1435.3,Not Returned,Free Shipping,2024-12-01,7176.5
+ORD00221,CUST0028,Webcam HD,Accessories,4,54.73,Not Returned,Next Day,2024-03-16,218.92
+ORD00222,CUST0064,Gaming Mouse,Computer,5,118.2,Not Returned,Standard,2024-06-17,591.0
+ORD00223,CUST0050,Noise Cancelling Earbuds,Audio,2,104.29,Not Returned,Free Shipping,2024-09-26,208.58
+ORD00224,CUST0049,Tablet,Electronics,4,787.89,Not Returned,Standard,2024-12-09,3151.56
+ORD00225,CUST0138,Webcam HD,Accessories,5,90.66,Not Returned,International,2024-03-12,453.3
+ORD00226,CUST0115,USB-C Hub,Accessories,2,68.37,Not Returned,International,2024-03-24,136.74
+ORD00227,CUST0036,USB-C Hub,Accessories,2,74.59,Not Returned,Express,2024-05-24,149.18
+ORD00228,CUST0109,Smart Home Hub,Smart Home,4,98.19,Not Returned,Next Day,2024-02-25,392.76
+ORD00229,CUST0047,Bluetooth Speaker,Audio,3,41.56,Not Returned,International,2024-01-11,124.68
+ORD00230,CUST0072,Wireless Headphones,Electronics,4,87.22,Not Returned,Next Day,2024-07-09,348.88
+ORD00231,CUST0119,Noise Cancelling Earbuds,Audio,3,147.98,Not Returned,Standard,2024-09-03,443.94
+ORD00232,CUST0064,Smart Home Hub,Smart Home,1,169.5,Not Returned,Free Shipping,2024-05-23,169.5
+ORD00233,CUST0020,Portable Monitor,Computer,4,394.56,Not Returned,International,2024-10-21,1578.24
+ORD00234,CUST0114,Tablet,Electronics,3,460.39,Not Returned,Free Shipping,2024-02-16,1381.17
+ORD00235,CUST0141,Bluetooth Speaker,Audio,5,77.63,Not Returned,International,2024-08-17,388.15
+ORD00236,CUST0026,Wireless Headphones,Electronics,2,143.26,Returned,Next Day,2024-06-02,286.52
+ORD00237,CUST0013,Smart Home Hub,Smart Home,1,149.02,Not Returned,International,2024-08-28,149.02
+ORD00238,CUST0139,Fitness Tracker,Wearables,4,134.75,Not Returned,International,2024-10-06,539.0
+ORD00239,CUST0004,Gaming Mouse,Computer,3,119.22,Not Returned,Standard,2024-06-06,357.66
+ORD00240,CUST0024,Portable Monitor,Computer,5,217.76,Returned,Express,2024-05-25,1088.8
+ORD00241,CUST0061,Tablet,Electronics,3,710.42,Not Returned,Standard,2024-02-19,2131.26
+ORD00242,CUST0043,Noise Cancelling Earbuds,Audio,4,311.97,Not Returned,Free Shipping,2024-11-24,1247.88
+ORD00243,CUST0105,Fitness Tracker,Wearables,3,148.06,Not Returned,Next Day,2024-02-08,444.18
+ORD00244,CUST0125,Wireless Headphones,Electronics,4,264.55,Returned,Next Day,2024-12-17,1058.2
+ORD00245,CUST0124,Fitness Tracker,Wearables,3,163.94,Not Returned,International,2024-01-02,491.82
+ORD00246,CUST0055,Noise Cancelling Earbuds,Audio,2,,Not Returned,Next Day,2024-01-08,
+ORD00247,CUST0103,Fitness Tracker,Wearables,4,106.89,Not Returned,Express,2024-01-16,427.56
+ORD00248,CUST0016,Laptop Pro,Electronics,4,1463.24,Not Returned,Express,2024-06-13,5852.96
+ORD00249,CUST0043,Mechanical Keyboard,Computer,1,67.86,Not Returned,International,2024-03-06,67.86
+ORD00250,CUST0098,External SSD,Storage,2,83.02,Not Returned,International,2024-01-18,166.04
+ORD00251,CUST0001,USB-C Hub,Accessories,4,30.28,Returned,Free Shipping,2024-12-24,121.12
+ORD00252,CUST0100,Tablet,Electronics,5,599.92,Not Returned,International,2024-11-14,2999.6
+ORD00253,CUST0068,Mechanical Keyboard,Computer,3,120.75,Not Returned,Standard,2024-04-11,362.25
+ORD00254,CUST0117,Wireless Headphones,Electronics,5,246.09,Not Returned,Standard,2024-04-14,1230.45
+ORD00255,CUST0074,External SSD,Storage,3,261.07,Not Returned,Standard,2024-12-11,783.21
+ORD00256,CUST0109,Tablet,Electronics,3,814.78,Not Returned,Express,2024-05-27,2444.34
+ORD00257,CUST0143,Mechanical Keyboard,Computer,1,73.35,Not Returned,Next Day,2024-02-19,73.35
+ORD00258,CUST0125,Laptop Pro,Electronics,4,1433.79,Not Returned,Free Shipping,2024-06-04,5735.16
+ORD00259,CUST0040,Portable Monitor,Computer,3,162.77,Not Returned,International,2024-09-22,488.31
+ORD00260,CUST0049,USB-C Hub,Accessories,1,32.69,Returned,Free Shipping,2024-01-06,32.69
+ORD00261,CUST0076,Portable Monitor,Computer,5,410.44,Returned,Express,2024-04-26,2052.2
+ORD00262,CUST0056,Wireless Charger,Accessories,1,91.57,Not Returned,International,2024-09-02,91.57
+ORD00263,CUST0015,Wireless Headphones,Electronics,5,168.88,Not Returned,International,2024-07-03,844.4
+ORD00264,CUST0149,USB-C Hub,Accessories,4,22.79,Returned,Express,2024-08-28,91.16
+ORD00265,CUST0139,Mechanical Keyboard,Computer,3,70.41,Returned,Next Day,2024-05-25,211.23
+ORD00266,CUST0016,Tablet,Electronics,2,855.35,Returned,International,2024-05-11,1710.7
+ORD00267,CUST0081,Webcam HD,Accessories,5,110.94,Returned,Next Day,2024-02-18,554.7
+ORD00268,CUST0015,Portable Monitor,Computer,3,319.05,Not Returned,Express,2024-08-01,957.15
+ORD00269,CUST0013,Wireless Charger,Accessories,2,27.47,Not Returned,Free Shipping,2024-06-07,54.94
+ORD00270,CUST0150,Smart Home Hub,Smart Home,2,237.89,Not Returned,International,2024-05-19,475.78
+ORD00271,CUST0123,Smart Watch,Electronics,5,260.07,Not Returned,Next Day,2024-05-24,1300.35
+ORD00272,CUST0129,USB-C Hub,Accessories,3,77.69,Not Returned,International,2024-10-08,233.07
+ORD00273,CUST0136,Smart Watch,Electronics,2,355.46,Not Returned,Next Day,2024-08-12,710.92
+ORD00274,CUST0041,Smart Home Hub,Smart Home,1,207.88,Not Returned,International,2024-10-16,207.88
+ORD00275,CUST0015,External SSD,Storage,1,308.07,Not Returned,International,2024-04-24,308.07
+ORD00276,CUST0131,Tablet,Electronics,3,538.98,Not Returned,International,2024-09-25,1616.94
+ORD00277,CUST0021,Gaming Mouse,Computer,4,46.15,Returned,Free Shipping,2024-04-05,184.6
+ORD00278,CUST0048,Noise Cancelling Earbuds,Audio,1,140.61,Not Returned,International,2024-01-14,140.61
+ORD00279,CUST0018,Fitness Tracker,Wearables,5,86.07,Not Returned,Next Day,2024-01-08,430.35
+ORD00280,CUST0018,Webcam HD,Accessories,3,105.12,Returned,Free Shipping,2024-09-12,315.36
+ORD00281,CUST0061,External SSD,Storage,2,204.53,Returned,Standard,2024-11-27,409.06
+ORD00282,CUST0104,Fitness Tracker,Wearables,1,184.48,Returned,Next Day,2024-12-01,184.48
+ORD00283,CUST0031,Wireless Charger,Accessories,3,49.88,Not Returned,Next Day,2024-06-01,149.64
+ORD00284,CUST0146,Wireless Charger,Accessories,3,81.67,Returned,Standard,2024-11-13,245.01
+ORD00285,CUST0064,USB-C Hub,Accessories,4,28.4,Not Returned,Free Shipping,2024-12-24,113.6
+ORD00286,CUST0149,Portable Monitor,Computer,2,446.54,Not Returned,International,2024-05-04,893.08
+ORD00287,CUST0011,Smart Home Hub,Smart Home,2,203.11,Not Returned,Next Day,2024-04-17,406.22
+ORD00288,CUST0021,Noise Cancelling Earbuds,Audio,2,225.2,Not Returned,Standard,2024-04-14,450.4
+ORD00289,CUST0108,Gaming Mouse,Computer,5,117.95,Returned,International,2024-08-02,589.75
+ORD00290,CUST0150,Mechanical Keyboard,Computer,3,67.52,Not Returned,Free Shipping,2024-03-23,202.56
+ORD00291,CUST0145,Portable Monitor,Computer,5,281.13,Not Returned,Next Day,2024-05-03,1405.65
+ORD00292,CUST0134,Bluetooth Speaker,Audio,5,130.64,Not Returned,International,2024-01-08,653.2
+ORD00293,CUST0081,Portable Monitor,Computer,3,252.18,Not Returned,International,2024-09-14,756.54
+ORD00294,CUST0067,Webcam HD,Accessories,2,99.21,Returned,Express,2024-12-12,198.42
+ORD00295,CUST0053,Wireless Headphones,Electronics,3,288.71,Not Returned,Standard,2024-08-24,866.13
+ORD00296,CUST0081,Gaming Mouse,Computer,4,71.74,Returned,International,2024-02-19,286.96
+ORD00297,CUST0062,Webcam HD,Accessories,3,99.62,Not Returned,Free Shipping,2024-02-17,298.86
+ORD00298,CUST0068,Wireless Charger,Accessories,3,27.22,Not Returned,Express,2024-03-21,81.66
+ORD00299,CUST0102,Bluetooth Speaker,Audio,1,62.8,Returned,International,2024-07-03,62.8
+ORD00300,CUST0034,Fitness Tracker,Wearables,4,198.89,Not Returned,International,2024-10-19,795.56
+ORD00301,CUST0077,Wireless Charger,Accessories,1,61.8,Not Returned,Free Shipping,2024-01-14,61.8
+ORD00302,CUST0118,Noise Cancelling Earbuds,Audio,2,188.95,Not Returned,Express,2024-11-05,377.9
+ORD00303,CUST0081,Noise Cancelling Earbuds,Audio,2,335.29,Not Returned,Express,2024-04-10,670.58
+ORD00304,CUST0019,Tablet,Electronics,4,559.11,Not Returned,Standard,2024-05-28,2236.44
+ORD00305,CUST0003,USB-C Hub,Accessories,5,60.78,Not Returned,International,2024-06-26,303.9
+ORD00306,CUST0118,Mechanical Keyboard,Computer,3,152.49,Not Returned,Standard,2024-07-23,457.47
+ORD00307,CUST0145,Laptop Pro,Electronics,1,902.83,Not Returned,Express,2024-12-11,902.83
+ORD00308,CUST0026,Wireless Charger,Accessories,4,,Not Returned,Standard,2024-06-15,
+ORD00309,CUST0019,Portable Monitor,Computer,1,389.42,Returned,Free Shipping,2024-05-08,389.42
+ORD00310,CUST0138,Mechanical Keyboard,Computer,3,159.84,Returned,Next Day,2024-02-07,479.52
+ORD00311,CUST0055,Smart Watch,Electronics,5,178.71,Not Returned,Free Shipping,2024-03-25,893.55
+ORD00312,CUST0130,Wireless Charger,Accessories,1,36.57,Returned,Express,2024-10-04,36.57
+ORD00313,CUST0068,Bluetooth Speaker,Audio,4,115.4,Not Returned,Free Shipping,2024-03-04,461.6
+ORD00314,CUST0034,Mechanical Keyboard,Computer,3,148.75,Not Returned,Express,2024-03-15,446.25
+ORD00315,CUST0090,Fitness Tracker,Wearables,3,160.95,Not Returned,Free Shipping,2024-08-11,482.85
+ORD00316,CUST0018,Gaming Mouse,Computer,5,65.33,Not Returned,International,2024-07-04,326.65
+ORD00317,CUST0063,Mechanical Keyboard,Computer,4,74.92,Not Returned,International,2024-09-12,299.68
+ORD00318,CUST0095,Gaming Mouse,Computer,3,40.42,Not Returned,Free Shipping,2024-04-15,121.26
+ORD00319,CUST0073,Webcam HD,Accessories,1,57.74,Not Returned,Standard,2024-05-15,57.74
+ORD00320,CUST0041,Noise Cancelling Earbuds,Audio,2,189.98,Not Returned,Express,2024-05-28,379.96
+ORD00321,CUST0113,Smart Home Hub,Smart Home,4,,Not Returned,International,2024-02-03,
+ORD00322,CUST0140,Webcam HD,Accessories,1,41.93,Not Returned,Express,2024-03-26,41.93
+ORD00323,CUST0078,Gaming Mouse,Computer,5,54.99,Returned,International,2024-11-10,274.95
+ORD00324,CUST0136,External SSD,Storage,5,223.63,Not Returned,Next Day,2024-12-23,1118.15
+ORD00325,CUST0003,Laptop Pro,Electronics,3,1465.69,Not Returned,Free Shipping,2024-10-02,4397.07
+ORD00326,CUST0142,External SSD,Storage,5,210.57,Not Returned,International,2024-04-27,1052.85
+ORD00327,CUST0077,Bluetooth Speaker,Audio,2,33.15,Returned,Free Shipping,2024-06-05,66.3
+ORD00328,CUST0027,Wireless Headphones,Electronics,1,138.48,Not Returned,Next Day,2024-02-23,138.48
+ORD00329,CUST0035,Bluetooth Speaker,Audio,4,41.17,Not Returned,Express,2024-04-12,164.68
+ORD00330,CUST0068,Smart Home Hub,Smart Home,3,181.67,Returned,Free Shipping,2024-07-17,545.01
+ORD00331,CUST0030,USB-C Hub,Accessories,4,39.47,Not Returned,International,2024-01-22,157.88
+ORD00332,CUST0028,Wireless Charger,Accessories,1,53.89,Not Returned,Next Day,2024-05-09,53.89
+ORD00333,CUST0142,External SSD,Storage,2,173.39,Not Returned,International,2024-03-01,346.78
+ORD00334,CUST0040,Fitness Tracker,Wearables,1,108.17,Not Returned,Next Day,2024-07-28,108.17
+ORD00335,CUST0070,Bluetooth Speaker,Audio,1,40.16,Not Returned,Next Day,2024-08-18,40.16
+ORD00336,CUST0073,Smart Home Hub,Smart Home,3,233.19,Not Returned,International,2024-12-18,699.57
+ORD00337,CUST0054,Wireless Charger,Accessories,4,92.89,Not Returned,Free Shipping,2024-04-04,371.56
+ORD00338,CUST0088,Tablet,Electronics,1,886.9,Not Returned,Express,2024-08-04,886.9
+ORD00339,CUST0053,Smart Home Hub,Smart Home,1,,Returned,Express,2024-03-04,
+ORD00340,CUST0068,Wireless Charger,Accessories,2,37.72,Not Returned,Next Day,2024-01-02,75.44
+ORD00341,CUST0130,Wireless Charger,Accessories,5,53.55,Not Returned,International,2024-04-05,267.75
+ORD00342,CUST0126,Fitness Tracker,Wearables,2,70.83,Not Returned,Next Day,2024-04-27,141.66
+ORD00343,CUST0065,Laptop Pro,Electronics,4,1161.36,Returned,Express,2024-07-12,4645.44
+ORD00344,CUST0014,Wireless Headphones,Electronics,4,173.28,Not Returned,Next Day,2024-11-21,693.12
+ORD00345,CUST0024,Gaming Mouse,Computer,3,45.06,Not Returned,Next Day,2024-11-03,135.18
+ORD00346,CUST0109,Bluetooth Speaker,Audio,5,82.16,Not Returned,Express,2024-10-19,410.8
+ORD00347,CUST0071,USB-C Hub,Accessories,4,45.27,Not Returned,Free Shipping,2024-05-27,181.08
+ORD00348,CUST0012,Smart Home Hub,Smart Home,5,162.32,Returned,Next Day,2024-02-01,811.6
+ORD00349,CUST0001,Bluetooth Speaker,Audio,2,39.23,Returned,Free Shipping,2024-02-07,78.46
+ORD00350,CUST0086,Gaming Mouse,Computer,4,60.14,Not Returned,Next Day,2024-11-15,240.56
+ORD00351,CUST0034,Tablet,Electronics,1,447.95,Not Returned,International,2024-03-03,447.95
+ORD00352,CUST0068,Noise Cancelling Earbuds,Audio,4,256.26,Not Returned,Next Day,2024-06-04,1025.04
+ORD00353,CUST0042,Mechanical Keyboard,Computer,5,143.13,Returned,Next Day,2024-01-15,715.65
+ORD00354,CUST0114,Wireless Charger,Accessories,4,39.67,Not Returned,Standard,2024-01-06,158.68
+ORD00355,CUST0142,External SSD,Storage,3,114.23,Not Returned,International,2024-10-14,342.69
+ORD00356,CUST0110,External SSD,Storage,1,177.49,Not Returned,International,2024-12-13,177.49
+ORD00357,CUST0144,Mechanical Keyboard,Computer,3,192.84,Not Returned,Free Shipping,2024-08-01,578.52
+ORD00358,CUST0003,USB-C Hub,Accessories,2,39.93,Not Returned,Free Shipping,2024-07-22,79.86
+ORD00359,CUST0029,Smart Home Hub,Smart Home,4,185.43,Not Returned,Next Day,2024-07-06,741.72
+ORD00360,CUST0020,External SSD,Storage,4,337.3,Not Returned,Express,2024-06-07,1349.2
+ORD00361,CUST0039,Mechanical Keyboard,Computer,2,106.14,Returned,Next Day,2024-03-09,212.28
+ORD00362,CUST0140,Mechanical Keyboard,Computer,3,106.86,Returned,Standard,2024-05-15,320.58
+ORD00363,CUST0010,Smart Home Hub,Smart Home,1,218.63,Not Returned,Next Day,2024-03-02,218.63
+ORD00364,CUST0095,Wireless Charger,Accessories,3,89.46,Not Returned,Standard,2024-10-20,268.38
+ORD00365,CUST0150,Gaming Mouse,Computer,5,117.94,Not Returned,Next Day,2024-10-08,589.7
+ORD00366,CUST0142,Gaming Mouse,Computer,3,50.89,Not Returned,Free Shipping,2024-11-10,152.67
+ORD00367,CUST0038,Gaming Mouse,Computer,1,65.65,Not Returned,Next Day,2024-08-14,65.65
+ORD00368,CUST0111,Bluetooth Speaker,Audio,4,143.67,Not Returned,Free Shipping,2024-09-16,574.68
+ORD00369,CUST0033,Wireless Headphones,Electronics,3,100.21,Returned,Express,2024-01-03,300.63
+ORD00370,CUST0011,Smart Home Hub,Smart Home,2,133.41,Not Returned,Express,2024-05-13,266.82
+ORD00371,CUST0079,Bluetooth Speaker,Audio,1,145.75,Not Returned,International,2024-03-14,145.75
+ORD00372,CUST0094,Mechanical Keyboard,Computer,4,195.62,Not Returned,Next Day,2024-04-21,782.48
+ORD00373,CUST0011,Wireless Headphones,Electronics,1,122.86,Returned,International,2024-09-08,122.86
+ORD00374,CUST0092,Smart Home Hub,Smart Home,2,198.14,Not Returned,Next Day,2024-11-26,396.28
+ORD00375,CUST0054,External SSD,Storage,5,237.12,Not Returned,Express,2024-09-26,1185.6
+ORD00376,CUST0064,Fitness Tracker,Wearables,1,136.38,Not Returned,Standard,2024-01-13,136.38
+ORD00377,CUST0027,Smart Home Hub,Smart Home,1,121.21,Not Returned,International,2024-12-12,121.21
+ORD00378,CUST0091,Smart Watch,Electronics,3,281.62,Not Returned,International,2024-08-18,844.86
+ORD00379,CUST0144,Bluetooth Speaker,Audio,2,127.98,Not Returned,Express,2024-08-12,255.96
+ORD00380,CUST0105,Bluetooth Speaker,Audio,2,77.15,Not Returned,Express,2024-10-17,154.3
+ORD00381,CUST0040,Smart Home Hub,Smart Home,5,99.36,Not Returned,Standard,2024-06-13,496.8
+ORD00382,CUST0061,Wireless Charger,Accessories,2,67.29,Not Returned,International,2024-05-06,134.58
+ORD00383,CUST0042,Gaming Mouse,Computer,1,87.38,Not Returned,Express,2024-01-11,87.38
+ORD00384,CUST0046,Smart Home Hub,Smart Home,5,172.76,Not Returned,Express,2024-10-08,863.8
+ORD00385,CUST0106,Noise Cancelling Earbuds,Audio,2,270.43,Returned,Standard,2024-01-26,540.86
+ORD00386,CUST0007,Fitness Tracker,Wearables,5,132.51,Returned,Standard,2024-05-02,662.55
+ORD00387,CUST0046,External SSD,Storage,2,384.96,Not Returned,Free Shipping,2024-08-17,769.92
+ORD00388,CUST0086,Noise Cancelling Earbuds,Audio,2,215.41,Not Returned,Next Day,2024-06-25,430.82
+ORD00389,CUST0106,Gaming Mouse,Computer,3,96.67,Not Returned,Free Shipping,2024-10-08,290.01
+ORD00390,CUST0064,Wireless Headphones,Electronics,2,159.61,Not Returned,Standard,2024-03-04,319.22
+ORD00391,CUST0069,Portable Monitor,Computer,5,237.4,Not Returned,Express,2024-04-22,1187.0
+ORD00392,CUST0041,Bluetooth Speaker,Audio,1,113.14,Returned,Standard,2024-04-09,113.14
+ORD00393,CUST0028,Gaming Mouse,Computer,3,105.52,Not Returned,International,2024-09-27,316.56
+ORD00394,CUST0098,Bluetooth Speaker,Audio,2,125.48,Not Returned,Express,2024-12-02,250.96
+ORD00395,CUST0010,Mechanical Keyboard,Computer,2,117.28,Returned,Free Shipping,2024-04-19,234.56
+ORD00396,CUST0121,Smart Watch,Electronics,5,324.76,Not Returned,Free Shipping,2024-07-12,1623.8
+ORD00397,CUST0057,Gaming Mouse,Computer,3,90.67,Not Returned,Free Shipping,2024-03-06,272.01
+ORD00398,CUST0052,Laptop Pro,Electronics,2,1090.43,Not Returned,Express,2024-04-19,2180.86
+ORD00399,CUST0118,Smart Home Hub,Smart Home,1,191.97,Not Returned,Next Day,2024-06-26,191.97
+ORD00400,CUST0090,External SSD,Storage,1,308.88,Not Returned,Next Day,2024-12-23,308.88
+ORD00401,CUST0079,Smart Watch,Electronics,2,426.18,Not Returned,Next Day,2024-06-19,852.36
+ORD00402,CUST0059,Gaming Mouse,Computer,1,45.92,Not Returned,Standard,2024-01-23,45.92
+ORD00403,CUST0058,Laptop Pro,Electronics,3,1988.84,Not Returned,Standard,2024-12-12,5966.52
+ORD00404,CUST0007,Laptop Pro,Electronics,2,1375.08,Not Returned,International,2024-10-19,2750.16
+ORD00405,CUST0050,External SSD,Storage,5,208.26,Not Returned,Express,2024-03-19,1041.3
+ORD00406,CUST0103,Gaming Mouse,Computer,3,80.53,Not Returned,International,2024-04-27,241.59
+ORD00407,CUST0085,Smart Home Hub,Smart Home,1,236.47,Not Returned,Standard,2024-08-18,236.47
+ORD00408,CUST0072,Smart Watch,Electronics,2,392.1,Not Returned,Express,2024-05-06,784.2
+ORD00409,CUST0018,Tablet,Electronics,3,626.19,Not Returned,Free Shipping,2024-08-02,1878.57
+ORD00410,CUST0072,Portable Monitor,Computer,1,387.22,Not Returned,Express,2024-02-02,387.22
+ORD00411,CUST0090,Fitness Tracker,Wearables,2,103.93,Not Returned,Standard,2024-04-20,207.86
+ORD00412,CUST0131,Wireless Charger,Accessories,4,92.16,Not Returned,Free Shipping,2024-04-01,368.64
+ORD00413,CUST0103,Wireless Headphones,Electronics,5,184.23,Not Returned,Free Shipping,2024-09-16,921.15
+ORD00414,CUST0138,Portable Monitor,Computer,1,341.45,Not Returned,Express,2024-01-11,341.45
+ORD00415,CUST0085,Laptop Pro,Electronics,1,901.98,Not Returned,Next Day,2024-10-07,901.98
+ORD00416,CUST0008,Noise Cancelling Earbuds,Audio,4,292.24,Returned,Standard,2024-03-11,1168.96
+ORD00417,CUST0030,Gaming Mouse,Computer,4,92.61,Not Returned,Standard,2024-12-06,370.44
+ORD00418,CUST0067,Wireless Charger,Accessories,3,51.63,Not Returned,Next Day,2024-06-02,154.89
+ORD00419,CUST0046,Wireless Charger,Accessories,5,73.52,Not Returned,International,2024-01-05,367.6
+ORD00420,CUST0149,Wireless Charger,Accessories,5,28.32,Returned,International,2024-10-23,141.6
+ORD00421,CUST0068,Mechanical Keyboard,Computer,1,197.71,Not Returned,Standard,2024-03-25,197.71
+ORD00422,CUST0010,Smart Watch,Electronics,4,,Not Returned,Next Day,2024-02-28,
+ORD00423,CUST0028,Laptop Pro,Electronics,5,1279.54,Not Returned,Next Day,2024-09-28,6397.7
+ORD00424,CUST0112,Gaming Mouse,Computer,2,100.21,Not Returned,Free Shipping,2024-06-03,200.42
+ORD00425,CUST0089,Portable Monitor,Computer,5,439.72,Returned,International,2024-06-23,2198.6
+ORD00426,CUST0081,Wireless Charger,Accessories,1,57.28,Not Returned,International,2024-11-13,57.28
+ORD00427,CUST0112,Wireless Headphones,Electronics,5,52.64,Not Returned,Free Shipping,2024-10-04,263.2
+ORD00428,CUST0131,Portable Monitor,Computer,3,227.62,Returned,Express,2024-06-10,682.86
+ORD00429,CUST0030,Wireless Headphones,Electronics,4,177.67,Returned,International,2024-06-05,710.68
+ORD00430,CUST0099,USB-C Hub,Accessories,1,51.13,Not Returned,Free Shipping,2024-03-24,51.13
+ORD00431,CUST0148,Wireless Charger,Accessories,1,68.54,Not Returned,Next Day,2024-07-26,68.54
+ORD00432,CUST0049,Wireless Headphones,Electronics,4,193.81,Not Returned,Express,2024-11-16,775.24
+ORD00433,CUST0066,Noise Cancelling Earbuds,Audio,4,211.44,Not Returned,Standard,2024-11-11,845.76
+ORD00434,CUST0012,Tablet,Electronics,4,534.68,Returned,Next Day,2024-03-23,2138.72
+ORD00435,CUST0112,Tablet,Electronics,1,763.41,Not Returned,Express,2024-09-23,763.41
+ORD00436,CUST0001,Laptop Pro,Electronics,4,1506.31,Returned,Free Shipping,2024-10-26,6025.24
+ORD00437,CUST0134,Smart Watch,Electronics,4,325.16,Not Returned,Next Day,2024-06-08,1300.64
+ORD00438,CUST0138,Smart Watch,Electronics,1,270.74,Not Returned,Express,2024-11-19,270.74
+ORD00439,CUST0051,Fitness Tracker,Wearables,1,53.68,Not Returned,Standard,2024-03-13,53.68
+ORD00440,CUST0094,Noise Cancelling Earbuds,Audio,3,126.14,Not Returned,Next Day,2024-05-24,378.42
+ORD00441,CUST0111,Gaming Mouse,Computer,5,73.28,Not Returned,Next Day,2024-12-10,366.4
+ORD00442,CUST0018,Wireless Headphones,Electronics,2,290.43,Not Returned,International,2024-03-06,580.86
+ORD00443,CUST0085,Bluetooth Speaker,Audio,1,43.93,Not Returned,Express,2024-12-01,43.93
+ORD00444,CUST0081,Wireless Headphones,Electronics,2,285.17,Not Returned,Express,2024-12-19,570.34
+ORD00445,CUST0032,External SSD,Storage,3,125.34,Not Returned,International,2024-07-28,376.02
+ORD00446,CUST0077,Fitness Tracker,Wearables,5,96.78,Returned,Free Shipping,2024-10-02,483.9
+ORD00447,CUST0130,USB-C Hub,Accessories,5,47.32,Not Returned,Free Shipping,2024-03-20,236.6
+ORD00448,CUST0080,Noise Cancelling Earbuds,Audio,5,151.72,Not Returned,International,2024-06-26,758.6
+ORD00449,CUST0105,Noise Cancelling Earbuds,Audio,3,220.73,Not Returned,Next Day,2024-10-08,662.19
+ORD00450,CUST0084,Fitness Tracker,Wearables,4,121.42,Not Returned,Standard,2024-11-19,485.68
+ORD00451,CUST0104,Noise Cancelling Earbuds,Audio,5,209.54,Not Returned,Free Shipping,2024-02-16,1047.7
+ORD00452,CUST0076,Bluetooth Speaker,Audio,5,113.61,Not Returned,Standard,2024-03-11,568.05
+ORD00453,CUST0142,Fitness Tracker,Wearables,3,97.84,Not Returned,Express,2024-12-03,293.52
+ORD00454,CUST0033,External SSD,Storage,4,176.08,Not Returned,Express,2024-04-12,704.32
+ORD00455,CUST0050,USB-C Hub,Accessories,5,68.61,Not Returned,Free Shipping,2024-06-06,343.05
+ORD00456,CUST0108,Wireless Charger,Accessories,5,33.63,Not Returned,Next Day,2024-11-03,168.15
+ORD00457,CUST0098,Webcam HD,Accessories,4,106.43,Not Returned,Express,2024-12-22,425.72
+ORD00458,CUST0045,Wireless Charger,Accessories,1,73.6,Not Returned,Standard,2024-11-24,73.6
+ORD00459,CUST0146,Gaming Mouse,Computer,1,94.17,Returned,Next Day,2024-06-15,94.17
+ORD00460,CUST0078,Portable Monitor,Computer,5,199.31,Not Returned,Free Shipping,2024-01-09,996.55
+ORD00461,CUST0104,Noise Cancelling Earbuds,Audio,2,345.98,Not Returned,Express,2024-04-08,691.96
+ORD00462,CUST0141,USB-C Hub,Accessories,4,34.63,Not Returned,Free Shipping,2024-12-03,138.52
+ORD00463,CUST0001,Gaming Mouse,Computer,4,53.96,Not Returned,Next Day,2024-06-09,215.84
+ORD00464,CUST0078,Noise Cancelling Earbuds,Audio,2,140.03,Not Returned,Next Day,2024-02-24,280.06
+ORD00465,CUST0074,Noise Cancelling Earbuds,Audio,4,239.96,Not Returned,Next Day,2024-01-02,959.84
+ORD00466,CUST0054,Laptop Pro,Electronics,3,1950.16,Not Returned,International,2024-07-15,5850.48
+ORD00467,CUST0111,Noise Cancelling Earbuds,Audio,4,157.96,Not Returned,International,2024-12-14,631.84
+ORD00468,CUST0149,Smart Home Hub,Smart Home,4,148.86,Not Returned,Standard,2024-03-14,595.44
+ORD00469,CUST0083,Wireless Headphones,Electronics,4,96.11,Not Returned,Next Day,2024-08-13,384.44
+ORD00470,CUST0120,Fitness Tracker,Wearables,1,146.07,Returned,Next Day,2024-06-18,146.07
+ORD00471,CUST0114,Bluetooth Speaker,Audio,3,81.86,Not Returned,Express,2024-07-04,245.58
+ORD00472,CUST0114,Tablet,Electronics,4,317.52,Not Returned,Standard,2024-08-26,1270.08
+ORD00473,CUST0055,Bluetooth Speaker,Audio,3,103.69,Not Returned,Standard,2024-10-21,311.07
+ORD00474,CUST0131,Gaming Mouse,Computer,3,55.79,Not Returned,Free Shipping,2024-11-08,167.37
+ORD00475,CUST0122,Tablet,Electronics,3,655.32,Not Returned,Next Day,2024-03-15,1965.96
+ORD00476,CUST0044,Wireless Headphones,Electronics,2,147.21,Not Returned,Express,2024-02-26,294.42
+ORD00477,CUST0022,Smart Watch,Electronics,4,396.66,Not Returned,Free Shipping,2024-01-10,1586.64
+ORD00478,CUST0073,Bluetooth Speaker,Audio,1,54.69,Not Returned,International,2024-01-11,54.69
+ORD00479,CUST0132,Smart Watch,Electronics,1,413.31,Not Returned,Next Day,2024-05-04,413.31
+ORD00480,CUST0086,External SSD,Storage,1,338.79,Not Returned,Standard,2024-02-11,338.79
+ORD00481,CUST0024,Wireless Headphones,Electronics,1,65.64,Not Returned,Next Day,2024-03-13,65.64
+ORD00482,CUST0061,Smart Watch,Electronics,4,185.61,Returned,Next Day,2024-03-24,742.44
+ORD00483,CUST0080,Laptop Pro,Electronics,1,1846.38,Not Returned,International,2024-02-18,1846.38
+ORD00484,CUST0058,USB-C Hub,Accessories,3,31.22,Not Returned,Express,2024-02-11,93.66
+ORD00485,CUST0051,Wireless Charger,Accessories,2,49.45,Not Returned,Express,2024-10-20,98.9
+ORD00486,CUST0038,Smart Home Hub,Smart Home,5,157.78,Not Returned,Express,2024-08-23,788.9
+ORD00487,CUST0007,Noise Cancelling Earbuds,Audio,1,165.59,Not Returned,Free Shipping,2024-01-14,165.59
+ORD00488,CUST0012,Wireless Charger,Accessories,5,89.7,Not Returned,Express,2024-11-06,448.5
+ORD00489,CUST0063,Gaming Mouse,Computer,5,82.22,Not Returned,Free Shipping,2024-10-14,411.1
+ORD00490,CUST0122,Laptop Pro,Electronics,5,1566.93,Not Returned,International,2024-03-02,7834.65
+ORD00491,CUST0019,Bluetooth Speaker,Audio,3,101.64,Not Returned,Next Day,2024-02-11,304.92
+ORD00492,CUST0117,Gaming Mouse,Computer,1,88.9,Not Returned,Free Shipping,2024-04-07,88.9
+ORD00493,CUST0107,Smart Home Hub,Smart Home,4,179.79,Not Returned,International,2024-07-23,719.16
+ORD00494,CUST0148,Gaming Mouse,Computer,3,67.83,Not Returned,Free Shipping,2024-09-24,203.49
+ORD00495,CUST0050,Smart Home Hub,Smart Home,4,223.74,Not Returned,International,2024-12-18,894.96
+ORD00496,CUST0099,Portable Monitor,Computer,1,335.21,Returned,Express,2024-05-22,335.21
+ORD00497,CUST0127,Wireless Charger,Accessories,3,86.03,Not Returned,Express,2024-05-10,258.09
+ORD00498,CUST0103,Wireless Headphones,Electronics,5,226.5,Returned,International,2024-04-04,1132.5
+ORD00499,CUST0063,Tablet,Electronics,3,478.47,Not Returned,Standard,2024-01-13,1435.41
+ORD00500,CUST0038,Bluetooth Speaker,Audio,3,103.74,Not Returned,International,2024-10-18,311.22
+ORD00362,CUST0140,Mechanical Keyboard,Computer,3,106.86,Returned,Standard,2024-05-15,320.58
+ORD00074,CUST0070,External SSD,Storage,4,362.8,Not Returned,Standard,2024-11-05,1451.2
+ORD00375,CUST0054,External SSD,Storage,5,237.12,Not Returned,Express,2024-09-26,1185.6
+ORD00156,CUST0021,Wireless Charger,Accessories,1,93.63,Not Returned,Free Shipping,2024-04-03,93.63
+ORD00105,CUST0036,USB-C Hub,Accessories,1,57.56,Not Returned,Next Day,2024-08-26,57.56
+ORD00395,CUST0010,Mechanical Keyboard,Computer,2,117.28,Returned,Free Shipping,2024-04-19,234.56
+ORD00378,CUST0091,Smart Watch,Electronics,3,281.62,Not Returned,International,2024-08-18,844.86
